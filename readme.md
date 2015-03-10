@@ -1,8 +1,8 @@
-# This zip contains the entire contents of ConflictHealth.com
+# Archive Of ConflictHealth.com
 
 I wrote Conflict Health for four years starting in 2008. However, in March 2014 I decided to take down the site instead of pay the $330 per year I was spending to host the site.
 
-Hopefully Conflict Health will continue to be useful to researchers and others in the future through this archive.
+Hopefully Conflict Health will continue to be useful to researchers and others in the future through this repo.
 
 ## This archive contains:
 
@@ -13,8 +13,4 @@ Hopefully Conflict Health will continue to be useful to researchers and others i
 - template: A copy of the custom template I used on the site.
 - full ftp: A full copy of the wordpress install from the server
 - conflicthealthlogo.png: the Conflict Health logo.
-
-## Contact Me
-
-Contact me at chrisralbon.com
 
