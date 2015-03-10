@@ -1,0 +1,3454 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://conflicthealth.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/2.8.4" -->
+<!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="3.2.4" -->
+<!-- generated-on="April 8, 2012 12:19 pm" -->
+<!-- Debug: Total comment count: 495 -->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
+		<loc>http://conflicthealth.com/</loc>
+		<lastmod>2011-12-23T17:00:54+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+<!-- Debug: Start Postings -->
+	<url>
+		<loc>http://conflicthealth.com/contact/</loc>
+		<lastmod>2012-04-08T16:18:21+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 2823: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/health-systems-101/</loc>
+		<lastmod>2011-12-19T17:02:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2821: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/the-broadening-and-deepening-of-security/</loc>
+		<lastmod>2011-12-19T16:55:13+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2815: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/weak-institutions-and-post-conflict-health-reconstruction/</loc>
+		<lastmod>2011-10-31T14:18:34+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2817: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/civil-wars-and-private-health-care-sectors/</loc>
+		<lastmod>2011-10-31T14:11:54+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2813: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/brain-drain-a-short-literature-review/</loc>
+		<lastmod>2011-10-31T14:08:47+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2811: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/wartime-health-reconstruction-an-example/</loc>
+		<lastmod>2011-10-31T14:04:49+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2809: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/when-rebels-become-governments-one-post-conflict-health-example/</loc>
+		<lastmod>2011-10-31T14:03:02+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2801: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/guns-vs-hospitals/</loc>
+		<lastmod>2011-10-23T14:15:47+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2805: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/houses-of-god-and-health/</loc>
+		<lastmod>2011-10-23T05:59:42+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2803: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/chinese-hospital-ship-arrives-in-cuba/</loc>
+		<lastmod>2011-10-22T17:11:04+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2794: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/sexual-violence-against-men-a-weapon/</loc>
+		<lastmod>2011-10-15T20:51:15+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2790: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/video-sirte-hospital-during-battle-for-the-city/</loc>
+		<lastmod>2011-10-13T10:50:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2788: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/1999-timor-leste-violence-by-the-numbers/</loc>
+		<lastmod>2011-10-12T12:55:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2784: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/bahrain-sentences-health-workers-who-treated-protestors/</loc>
+		<lastmod>2011-09-29T21:08:25+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2782: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/libyan-health-workers-started-secret-clinics-during-war/</loc>
+		<lastmod>2011-09-28T12:05:58+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2780: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/video-treating-wounded-on-the-libyan-front/</loc>
+		<lastmod>2011-09-27T17:27:27+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2778: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/icrc-joins-the-blogosphere/</loc>
+		<lastmod>2011-09-27T17:15:56+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2763: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/afghan-military-hospital/</loc>
+		<lastmod>2011-09-06T16:24:19+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2761: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/pakistans-ethnic-violence-and-paramedics/</loc>
+		<lastmod>2011-08-28T07:45:52+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2759: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/health-worker-safety-in-juarez-mexico/</loc>
+		<lastmod>2011-08-27T22:53:50+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2755: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/video-horror-of-abu-salim-hospital/</loc>
+		<lastmod>2011-08-26T20:39:11+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2752: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/what-tripoli-central-hospital-needs/</loc>
+		<lastmod>2011-08-24T23:01:43+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2750: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/study-confirms-un-blue-helmets-caused-cholera-epidemic-in-haiti/</loc>
+		<lastmod>2011-08-24T22:39:46+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2744: Comments: 6 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/dangers-of-3d/</loc>
+		<lastmod>2011-08-18T14:12:57+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://conflicthealth.com/about/</loc>
+		<lastmod>2011-08-18T03:04:52+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://conflicthealth.com/press/</loc>
+		<lastmod>2011-08-18T03:03:13+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 2731: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/are-drones-a-more-humane-form-of-warfare/</loc>
+		<lastmod>2011-08-17T21:39:24+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2734: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photo-us-navy-health-diplomacy-2011/</loc>
+		<lastmod>2011-08-17T21:12:37+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2718: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/bahrains-health-system-as-an-enemy-of-the-state/</loc>
+		<lastmod>2011-07-25T03:55:35+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2713: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/libyan-rebels-loot-hospitals/</loc>
+		<lastmod>2011-07-22T18:15:05+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2707: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/can-naming-and-shaming-protect-hospitals/</loc>
+		<lastmod>2011-07-21T13:49:44+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2704: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/consequences-of-fake-vaccination-programs-in-afpak/</loc>
+		<lastmod>2011-07-13T16:57:07+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2700: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/radio-interview-implications-of-the-cia-false-vaccination-drive/</loc>
+		<lastmod>2011-07-13T15:29:38+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2678: Comments: 5 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/cia-conducted-fake-vaccination-drive-to-hunt-bin-laden/</loc>
+		<lastmod>2011-07-11T21:25:56+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2676: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/video-health-care-in-mogadishu/</loc>
+		<lastmod>2011-07-11T18:34:26+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2671: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/are-the-libyan-rebels-diverting-humanitarian-aid/</loc>
+		<lastmod>2011-07-11T18:09:04+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2662: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/blue-helmets-brought-cholera-to-haiti/</loc>
+		<lastmod>2011-07-11T13:10:05+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2666: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/gaddafi-loyalists-occupy-hospital/</loc>
+		<lastmod>2011-07-11T13:08:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2658: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/csis-releases-new-report-on-dod-medical-labs/</loc>
+		<lastmod>2011-06-29T14:02:26+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2617: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/conflict-health-roundup-for-june-8-2011/</loc>
+		<lastmod>2011-06-28T17:55:23+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2653: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/the-red-cross-box/</loc>
+		<lastmod>2011-06-27T19:23:19+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2642: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/gang-humanitarianism/</loc>
+		<lastmod>2011-06-27T12:35:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2640: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/video-civilians-in-sri-lankas-civil-war/</loc>
+		<lastmod>2011-06-24T14:15:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2634: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/another-drug-rehab-center-attacked-in-mexico/</loc>
+		<lastmod>2011-06-24T13:45:36+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2632: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photo-the-newborn/</loc>
+		<lastmod>2011-06-08T14:53:10+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2629: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photo-basras-new-childrens-hospital/</loc>
+		<lastmod>2011-06-08T14:51:40+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2626: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photo-the-humanitarian-the-sailor-and-the-patient/</loc>
+		<lastmod>2011-06-08T14:50:19+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2623: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photo-continuing-promise-2011/</loc>
+		<lastmod>2011-06-08T14:48:25+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2620: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photo-kasara-health-clinic/</loc>
+		<lastmod>2011-06-08T14:46:39+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2601: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/gaddafi-reportedly-abusing-red-cross-emblem/</loc>
+		<lastmod>2011-06-04T01:45:46+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2595: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/bahrain-arrests-health-workers-for-collecting-data/</loc>
+		<lastmod>2011-06-04T01:45:36+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2593: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/libyas-health-system-before-and-after-revolution/</loc>
+		<lastmod>2011-06-04T01:45:07+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2604: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/back-to-regular-posting/</loc>
+		<lastmod>2011-06-04T01:28:41+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2599: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/israeli-soft-power/</loc>
+		<lastmod>2011-05-07T03:19:37+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2597: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/ngo-security-bunkerization-and-acceptance/</loc>
+		<lastmod>2011-05-07T02:00:09+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2591: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/conflict-health-round-up-for-april-20th-2011/</loc>
+		<lastmod>2011-04-15T20:42:14+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2589: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/world-bank-report-security-first/</loc>
+		<lastmod>2011-04-15T20:37:45+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2587: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/taliban-use-ambulance-as-car-bomb/</loc>
+		<lastmod>2011-04-10T07:47:40+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2581: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/health-system-is-a-battleground-in-bahrains-unrest/</loc>
+		<lastmod>2011-04-10T07:25:00+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2572: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/libyan-rebels-pledge-to-not-use-landmines/</loc>
+		<lastmod>2011-04-03T00:57:58+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2576: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/ambulance-bomb-in-iraq/</loc>
+		<lastmod>2011-04-02T18:17:33+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2574: Comments: 3 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/counting-libyas-dead/</loc>
+		<lastmod>2011-04-02T18:11:05+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2570: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/libyan-rebels-frontline-hospital/</loc>
+		<lastmod>2011-03-28T00:46:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2568: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/libyas-health-system-round-up/</loc>
+		<lastmod>2011-03-28T00:33:42+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2566: Comments: 5 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/send-the-enterprise/</loc>
+		<lastmod>2011-03-19T21:48:11+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2556: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/allies-and-disasters/</loc>
+		<lastmod>2011-03-14T05:06:40+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2554: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photo-u-s-navy-disaster-relief-in-japan/</loc>
+		<lastmod>2011-03-14T04:27:33+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2528: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/medecins-san-frontieres-used-to-ambush-civilians/</loc>
+		<lastmod>2011-03-10T23:21:49+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2550: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/feeding-benghazi/</loc>
+		<lastmod>2011-03-10T23:21:03+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2544: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/video-rebel-hospital-during-the-battle-for-zawiyah/</loc>
+		<lastmod>2011-03-09T00:46:57+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2533: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/send-food-to-libya/</loc>
+		<lastmod>2011-03-08T17:59:55+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2519: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/explosive-remnants-of-nepals-civil-war/</loc>
+		<lastmod>2011-02-25T22:15:55+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2523: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/egyptian-military-field-hospitals-on-libyan-border/</loc>
+		<lastmod>2011-02-22T02:53:06+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2521: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/impact-of-the-eritrean-ethiopian-war-on-child-health/</loc>
+		<lastmod>2011-02-19T08:04:24+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2514: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/video-blood-and-dust/</loc>
+		<lastmod>2011-02-18T03:05:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2490: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/health-effects-of-au-intervention-in-cote-d%e2%80%99ivoire/</loc>
+		<lastmod>2011-02-12T04:41:00+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2507: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/field-hospital-for-egyptian-protesters/</loc>
+		<lastmod>2011-02-12T04:37:04+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2487: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/biological-warfare-during-colonial-times/</loc>
+		<lastmod>2011-02-05T19:29:47+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2503: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/protests-and-egypts-health-system/</loc>
+		<lastmod>2011-02-05T19:29:45+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2495: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/stavridis-on-health-diplomacy/</loc>
+		<lastmod>2011-02-03T06:45:06+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2483: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/writing-for-un-dispatch/</loc>
+		<lastmod>2011-01-30T11:26:50+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2478: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/video-medevac-in-the-vietnam-war/</loc>
+		<lastmod>2011-01-18T21:13:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2470: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/david-brown-on-military-medicine/</loc>
+		<lastmod>2011-01-18T20:43:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2462: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/free-ebook-handbook-on-war-and-public-health/</loc>
+		<lastmod>2011-01-18T18:45:39+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2455: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/why-you-should-read-gail-fisher/</loc>
+		<lastmod>2011-01-09T19:02:59+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2446: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/the-devil-in-the-definitions/</loc>
+		<lastmod>2011-01-04T14:14:38+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2453: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/health-diplomacy-during-korean-unification/</loc>
+		<lastmod>2011-01-03T14:38:01+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2442: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/a-korean-dunkirk/</loc>
+		<lastmod>2010-12-21T18:27:02+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2440: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/conflict-health-roundup-for-december-27th/</loc>
+		<lastmod>2010-12-21T17:15:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2438: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/conflict-health-roundup-for-december-23rd/</loc>
+		<lastmod>2010-12-21T17:05:25+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2432: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/should-us-military-aid-be-contingent-on-human-rights/</loc>
+		<lastmod>2010-12-21T16:19:07+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2428: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/20092010-human-security-report-released/</loc>
+		<lastmod>2010-12-02T17:40:57+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2418: Comments: 5 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/how-did-manning-steal-the-cables/</loc>
+		<lastmod>2010-12-01T01:27:37+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2412: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/african-laboratories-and-bioterrorism/</loc>
+		<lastmod>2010-11-29T07:11:06+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2407: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/thailand-uses-aircraft-carrier-for-disaster-relief/</loc>
+		<lastmod>2010-11-25T04:38:53+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2402: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/conflict-health-roundup-video-edition/</loc>
+		<lastmod>2010-11-21T22:55:53+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2396: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/must-read-jefferson%e2%80%99s-army-of-nation-builders/</loc>
+		<lastmod>2010-11-11T12:34:42+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2219: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photo-balad-joint-medical-clinic/</loc>
+		<lastmod>2010-11-07T22:17:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2393: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photo-a-preview-of-disaster-relief-in-the-21st-century/</loc>
+		<lastmod>2010-11-06T16:33:47+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2387: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/fighting-a-cholera-epidemic-with-the-marine-corps/</loc>
+		<lastmod>2010-11-05T05:27:51+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2382: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/kurdish-medical-education-under-saddam/</loc>
+		<lastmod>2010-11-03T10:05:58+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2373: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/un-troops-cause-the-haitian-cholera-outbreak/</loc>
+		<lastmod>2010-10-28T18:18:40+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2370: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/us-uniformed-services-as-a-proto-international-health-service-corps/</loc>
+		<lastmod>2010-10-22T10:16:17+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2367: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/the-docs-a-comic-book/</loc>
+		<lastmod>2010-10-21T08:30:34+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2364: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/why-modern-us-medics-carry-guns-and-dont-wear-red-crosses/</loc>
+		<lastmod>2010-10-21T08:00:42+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2361: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/attacking-military-disaster-relief/</loc>
+		<lastmod>2010-10-21T07:28:43+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2359: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/video-condolence-payments-in-afghanistan/</loc>
+		<lastmod>2010-10-19T11:24:43+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2355: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/plans-hospital-ship-and-public-diplomacy/</loc>
+		<lastmod>2010-10-17T15:19:01+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2243: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photo-medical-counterinsurgency/</loc>
+		<lastmod>2010-10-17T11:50:56+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2339: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/us-army-anesthetist-in-afghanistan/</loc>
+		<lastmod>2010-10-17T11:50:07+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2345: Comments: 22 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/humanitarian-use-of-force-no-thanks/</loc>
+		<lastmod>2010-10-17T11:46:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2325: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/us-military-and-pakistan-flood-relief-part-ii/</loc>
+		<lastmod>2010-10-12T18:12:57+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2334: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/humanitarians-want-covert-us-aid/</loc>
+		<lastmod>2010-10-12T18:10:16+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2207: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photo-working-with-the-un/</loc>
+		<lastmod>2010-10-12T09:58:00+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2306: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/conflict-health-roundup-october-16th-2010/</loc>
+		<lastmod>2010-10-10T09:16:22+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2302: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/medevac-explained/</loc>
+		<lastmod>2010-10-09T19:55:11+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2279: Comments: 4 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/video-why-soldiers-rape/</loc>
+		<lastmod>2010-10-05T06:42:08+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2293: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/conflict-health-roundup-october-5th-2010/</loc>
+		<lastmod>2010-10-03T15:28:01+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2291: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/abuse-and-killing-of-afpak-civilians/</loc>
+		<lastmod>2010-10-03T15:22:19+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2289: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/ptsd-is-real/</loc>
+		<lastmod>2010-10-03T14:54:44+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2284: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/an-american-pilot-in-pakistan/</loc>
+		<lastmod>2010-10-03T14:04:40+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2210: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photo-flying-ambulance/</loc>
+		<lastmod>2010-09-28T21:56:53+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2240: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photo-military-pediatrics/</loc>
+		<lastmod>2010-09-28T21:39:04+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2237: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photo-delivering-medical-supplies/</loc>
+		<lastmod>2010-09-28T21:38:54+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2234: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photo-say-ahhhh-ii/</loc>
+		<lastmod>2010-09-28T21:38:43+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2231: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photo-say-ahhh/</loc>
+		<lastmod>2010-09-28T21:38:32+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2228: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photo-hospital-security/</loc>
+		<lastmod>2010-09-28T21:38:20+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2225: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photo-uruguayan-medical-diplomacy/</loc>
+		<lastmod>2010-09-28T21:38:06+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2222: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photo-smile/</loc>
+		<lastmod>2010-09-28T21:37:53+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2216: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photo-afghan-ambulance/</loc>
+		<lastmod>2010-09-28T21:37:29+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2213: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photo-pet-vaccination/</loc>
+		<lastmod>2010-09-28T21:37:16+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2204: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photo-unified-response/</loc>
+		<lastmod>2010-09-28T21:36:52+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2201: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photo-bottled-water/</loc>
+		<lastmod>2010-09-28T21:36:41+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2246: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photo-blood-donations/</loc>
+		<lastmod>2010-09-28T21:36:05+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2196: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/four-usaid-workers-kidnapped-in-afghanistan/</loc>
+		<lastmod>2010-09-27T08:41:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1977: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photo-health-clinic/</loc>
+		<lastmod>2010-09-22T13:15:11+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2181: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/security-implications-of-pakistan-flood-aid-a-round-up/</loc>
+		<lastmod>2010-09-22T13:14:27+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2175: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/axes-medflag-10-coverage/</loc>
+		<lastmod>2010-09-22T11:16:41+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2153: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/conflict-health-reading-rape-as-strategy-mil-ngo-corporation-war-hospitals/</loc>
+		<lastmod>2010-09-20T17:13:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2167: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/the-military-as-a-health-provider/</loc>
+		<lastmod>2010-09-15T21:05:52+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1971: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photo-pacific-soft-power/</loc>
+		<lastmod>2010-09-14T23:27:29+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2151: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/the-military-and-vaccine-diplomacy/</loc>
+		<lastmod>2010-09-13T09:01:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2162: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/video-medflag-2010/</loc>
+		<lastmod>2010-09-13T09:00:07+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2158: Comments: 4 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/how-swim-lessons-and-a-disease-saved-taiwan/</loc>
+		<lastmod>2010-09-12T21:35:38+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2149: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/a-second-great-white-fleet/</loc>
+		<lastmod>2010-09-08T16:26:19+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2137: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/china-launches-first-medical-diplomacy-cruise/</loc>
+		<lastmod>2010-09-06T20:53:47+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2127: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/hearts-and-minds-roundup/</loc>
+		<lastmod>2010-09-05T09:20:27+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2129: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/negotiating-neutrality/</loc>
+		<lastmod>2010-09-05T09:19:51+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2141: Comments: 4 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/the-military-as-health-workers-of-last-resort/</loc>
+		<lastmod>2010-09-05T09:16:34+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2124: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/charli-carpenters-war/</loc>
+		<lastmod>2010-08-24T21:53:57+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2122: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/vaccination-diplomacy/</loc>
+		<lastmod>2010-08-24T15:02:40+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2115: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/military-flood-relief-roundup/</loc>
+		<lastmod>2010-08-21T10:21:05+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2108: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/video-medevac-in-afghanistan/</loc>
+		<lastmod>2010-08-21T08:32:59+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2106: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/conflict-health-reading-for-august-19th-2010/</loc>
+		<lastmod>2010-08-15T14:45:43+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2104: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/us-military-and-pakistan-flood-relief/</loc>
+		<lastmod>2010-08-15T11:20:37+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2082: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/after-the-floods/</loc>
+		<lastmod>2010-08-14T22:03:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2065: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/when-hard-and-soft-power-collide/</loc>
+		<lastmod>2010-08-12T00:21:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2061: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/what-renamo-teaches-us-about-the-taliban/</loc>
+		<lastmod>2010-08-11T16:24:14+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://conflicthealth.com/book-club/</loc>
+		<lastmod>2010-08-08T22:32:09+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 2045: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/blog-you-should-read-fast-surgeon/</loc>
+		<lastmod>2010-08-08T21:03:15+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2048: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/taliban-cheap-talk/</loc>
+		<lastmod>2010-08-08T21:00:00+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2021: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/infectious-diseases-security-implications/</loc>
+		<lastmod>2010-08-05T20:38:12+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2039: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/mexi-stan-the-accidental-narco/</loc>
+		<lastmod>2010-08-02T12:06:24+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2035: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/conflict-health-readings-for-august-3rd-2010/</loc>
+		<lastmod>2010-08-01T17:28:04+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2031: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/us-armys-suicide-at-a-glance/</loc>
+		<lastmod>2010-08-01T14:48:02+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://conflicthealth.com/terms-of-use/</loc>
+		<lastmod>2010-07-25T20:27:35+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 2006: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/the-guinea-worm-ceasefire/</loc>
+		<lastmod>2010-07-24T09:25:59+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1982: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/idf-assigns-humanitarian-affairs-officers-to-units/</loc>
+		<lastmod>2010-07-24T09:23:45+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1994: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/scurvy-manpower-and-the-american-revolution/</loc>
+		<lastmod>2010-07-24T07:24:08+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1938: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/recent-conflict-health-research-worth-reading/</loc>
+		<lastmod>2010-07-23T08:27:50+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1974: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photo-military-humanitarian-aid/</loc>
+		<lastmod>2010-07-15T20:54:51+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1957: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/iraqi-pows-in-desert-storm/</loc>
+		<lastmod>2010-07-15T20:46:44+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1966: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photo-public-diplomacy/</loc>
+		<lastmod>2010-07-15T20:46:26+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1963: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photo-afghan-military-medical-school/</loc>
+		<lastmod>2010-07-15T20:39:53+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1960: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photo-health-system-vs-car-bomb/</loc>
+		<lastmod>2010-07-15T20:37:21+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1953: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photo-medevac/</loc>
+		<lastmod>2010-07-15T20:24:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1950: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photo-iraqi-humanitarian-assistance/</loc>
+		<lastmod>2010-07-15T20:20:38+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1947: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photo-aussie-field-hospital/</loc>
+		<lastmod>2010-07-15T20:17:02+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1941: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photo-army-public-affairs-at-unhcr-camp/</loc>
+		<lastmod>2010-07-15T20:04:59+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1934: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/conflict-health-reading-for-july-19th-2010/</loc>
+		<lastmod>2010-07-14T22:23:42+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1928: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/airborne-health-care-in-costa-rica/</loc>
+		<lastmod>2010-07-14T17:38:10+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1926: Comments: 4 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/war-dead-do-not-cause-epidemics/</loc>
+		<lastmod>2010-07-14T06:57:08+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 59: Comments: 4 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/nightingales-rose/</loc>
+		<lastmod>2010-07-02T19:44:01+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1920: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/usaid-and-dai-compound-attacked-in-afghanistan/</loc>
+		<lastmod>2010-07-02T19:33:58+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1912: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/conflict-health-reading-for-july-6th-2010/</loc>
+		<lastmod>2010-07-01T08:08:40+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1900: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/iran%e2%80%99s-fictional-flotilla/</loc>
+		<lastmod>2010-06-25T13:55:46+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1894: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photos-pacific-partnership-2010/</loc>
+		<lastmod>2010-06-24T19:25:52+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1881: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/dont-question-the-rwandan-genocide-body-count/</loc>
+		<lastmod>2010-06-21T19:43:57+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1870: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/hiv-bombs/</loc>
+		<lastmod>2010-06-21T14:26:07+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1877: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/military-suicide-education-pays-off/</loc>
+		<lastmod>2010-06-21T14:25:25+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1872: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/good-reads-for-june-23rd-2010/</loc>
+		<lastmod>2010-06-19T07:58:41+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1865: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/when-uss-lexington-powered-a-city/</loc>
+		<lastmod>2010-06-17T15:44:17+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1853: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/iran%e2%80%99s-blockade-runners-depart/</loc>
+		<lastmod>2010-06-15T10:52:05+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1850: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/good-reads-for-june-15th-2010/</loc>
+		<lastmod>2010-06-15T08:19:17+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1810: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photo-the-dawn-of-health-diplomacy/</loc>
+		<lastmod>2010-06-12T15:31:10+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1800: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/good-reads-for-june-8th-2010-far-out-medicine-edition/</loc>
+		<lastmod>2010-06-10T08:40:43+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1825: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/iran-blockade-running-with-a-hospital-ship/</loc>
+		<lastmod>2010-06-07T09:22:58+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1813: Comments: 3 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/has-hivaids-destroyed-its-first-nation-state/</loc>
+		<lastmod>2010-06-06T20:15:55+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1805: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/dod-instruction-6000-16/</loc>
+		<lastmod>2010-06-06T10:08:15+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1798: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/theyll-like-us-when-we-win/</loc>
+		<lastmod>2010-05-31T06:29:13+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1796: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/estimating-afghanistans-dead/</loc>
+		<lastmod>2010-05-30T21:32:44+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1794: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photo-the-heart-of-hearts-and-minds/</loc>
+		<lastmod>2010-05-28T19:48:52+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1783: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photo-japanese-health-diplomacy/</loc>
+		<lastmod>2010-05-28T07:40:36+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1770: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/taliban-combat-medicine-icrc-neutrality/</loc>
+		<lastmod>2010-05-27T21:29:14+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1757: Comments: 5 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/japan%e2%80%99s-grey-hull-health-diplomacy/</loc>
+		<lastmod>2010-05-25T12:00:15+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1763: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/good-reads-for-may-28-2010/</loc>
+		<lastmod>2010-05-24T23:12:56+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1750: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/us-diplomacy-and-global-health/</loc>
+		<lastmod>2010-05-24T14:11:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1741: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/csis-dod-need-to-address-civilian-health-systems/</loc>
+		<lastmod>2010-05-18T15:11:36+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1746: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/good-reads-for-may-21-2010/</loc>
+		<lastmod>2010-05-18T12:02:58+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1736: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/hizbul-islam-attacks-refugee-health-clinic/</loc>
+		<lastmod>2010-05-16T12:57:27+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1733: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/uavs-for-humanitarian-operations/</loc>
+		<lastmod>2010-05-09T11:59:27+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1726: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/why-japanese-does-not-have-hospital-ships/</loc>
+		<lastmod>2010-05-08T19:30:37+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1723: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/good-reads-for-may-10-2010/</loc>
+		<lastmod>2010-05-07T12:09:20+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1704: Comments: 7 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/a-medal-for-courageous-restraint/</loc>
+		<lastmod>2010-05-05T17:40:39+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1699: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/good-reads-for-may-3rd-2010/</loc>
+		<lastmod>2010-05-03T08:02:42+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1695: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/usns-mercy-deploys-on-pacific-partnership/</loc>
+		<lastmod>2010-04-29T08:16:57+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1690: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/video-war-and-global-health-conference/</loc>
+		<lastmod>2010-04-28T22:14:12+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1684: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/good-reads-for-may-1-2010/</loc>
+		<lastmod>2010-04-28T21:20:36+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1686: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/the-new-laws-of-war/</loc>
+		<lastmod>2010-04-28T19:29:23+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1677: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/world-banks-massive-data-release/</loc>
+		<lastmod>2010-04-20T13:27:53+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1673: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/mods-guide-to-ngos/</loc>
+		<lastmod>2010-04-19T17:02:09+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1671: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/suicide-bomb-against-idp-camp/</loc>
+		<lastmod>2010-04-19T08:48:59+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1666: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/criminal-cleansing-in-mexico-and-the-coming-of-the-narco-refugees/</loc>
+		<lastmod>2010-04-18T15:35:08+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1660: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/post-conference-good-reads/</loc>
+		<lastmod>2010-04-18T07:04:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1611: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/anatomy-of-an-lra-raid/</loc>
+		<lastmod>2010-04-06T22:20:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1654: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/stop-worrying-about-chinas-carrier-killer/</loc>
+		<lastmod>2010-04-06T08:01:41+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1648: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/petraeus-book-recommendation/</loc>
+		<lastmod>2010-04-05T20:48:41+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1637: Comments: 4 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/leaked-video-depicts-civilian-deaths/</loc>
+		<lastmod>2010-04-05T19:24:16+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1629: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/predicting-civil-war-battlefields/</loc>
+		<lastmod>2010-04-04T07:33:37+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1626: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/aiddata-offers-development-data/</loc>
+		<lastmod>2010-04-03T09:54:17+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1620: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/uxo-in-the-head/</loc>
+		<lastmod>2010-04-02T17:55:21+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1606: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/video-us-navy-and-global-health/</loc>
+		<lastmod>2010-04-01T00:08:34+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1580: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/uxo-in-laos/</loc>
+		<lastmod>2010-03-26T22:15:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1556: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/%e2%80%9cpeak-insurgency%e2%80%9d-39-and-the-new-abnormal/</loc>
+		<lastmod>2010-03-23T15:20:20+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1596: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photos-usns-comfort-in-haiti/</loc>
+		<lastmod>2010-03-20T19:11:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1583: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/health-and-armed-conflict-reading-list/</loc>
+		<lastmod>2010-03-20T09:31:03+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1575: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/one-rebel-groups-potemkin-humanitarians/</loc>
+		<lastmod>2010-03-20T08:21:05+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1569: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/dont-ask-dont-tell-prevents-genocide/</loc>
+		<lastmod>2010-03-19T08:08:51+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1561: Comments: 3 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/the-mullen-doctrine/</loc>
+		<lastmod>2010-03-16T22:47:04+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1553: Comments: 3 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/marines-get-malaria-get-punished/</loc>
+		<lastmod>2010-03-15T16:18:00+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1550: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/webinar-on-protecting-civilians-during-air-warfare/</loc>
+		<lastmod>2010-03-15T12:12:12+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1548: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/new-publication-current-intelligence/</loc>
+		<lastmod>2010-03-15T09:32:56+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1544: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/good-reads-for-march-17th-2010/</loc>
+		<lastmod>2010-03-15T08:08:07+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1540: Comments: 3 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/whiplash-transition-and-stress-of-drone-wars/</loc>
+		<lastmod>2010-03-15T06:50:51+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1523: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/usaf-sends-c-130s-for-chile-disaster-relief/</loc>
+		<lastmod>2010-03-09T15:16:17+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1526: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/nejm-discusses-militarys-role-in-haiti/</loc>
+		<lastmod>2010-03-07T21:23:04+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1519: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/increased-birth-defects-in-fallujah/</loc>
+		<lastmod>2010-03-07T21:17:41+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1513: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/military-publishes-%e2%80%9chumanitarians-101%e2%80%9d/</loc>
+		<lastmod>2010-03-05T17:39:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1504: Comments: 5 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/100000-peacekeepers/</loc>
+		<lastmod>2010-03-04T21:46:50+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1501: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/charity-soft-power-threatens-humanitarians-security/</loc>
+		<lastmod>2010-03-04T21:36:23+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1493: Comments: 4 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/fast-littoral-fleet-for-disaster-relief/</loc>
+		<lastmod>2010-02-28T20:26:07+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1495: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/genocide-as-a-national-security-threat/</loc>
+		<lastmod>2010-02-28T20:25:41+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1486: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/how-nato-measures-civilian-casualties/</loc>
+		<lastmod>2010-02-26T08:00:23+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1484: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/conflict-and-health-roundup/</loc>
+		<lastmod>2010-02-25T19:53:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1480: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/craig-kiebler-service-as-security/</loc>
+		<lastmod>2010-02-22T20:37:36+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1468: Comments: 3 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/did-a-siege-spread-the-plague-to-europe/</loc>
+		<lastmod>2010-02-22T15:58:14+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1471: Comments: 5 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/warning-black-market-cigarettes-may-be-hazardous-to-countries-in-conflict/</loc>
+		<lastmod>2010-02-22T10:48:46+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1446: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/new-book-war-and-the-health-of-nations/</loc>
+		<lastmod>2010-02-18T04:30:32+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1419: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/genocide-by-environment/</loc>
+		<lastmod>2010-02-08T18:17:46+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1427: Comments: 20 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/designing-the-next-hospital-ship-lessons-from-haiti/</loc>
+		<lastmod>2010-02-04T02:19:06+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1415: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/ends-and-means-in-sri-lanka/</loc>
+		<lastmod>2010-02-02T01:39:24+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1409: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/an-observation-from-south-africa/</loc>
+		<lastmod>2010-02-01T06:20:55+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1411: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/health-in-the-2010-quadrennial-defense-review/</loc>
+		<lastmod>2010-01-31T20:18:42+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1407: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/moving-to-south-africa-t-minus-three-hours/</loc>
+		<lastmod>2010-01-19T22:07:52+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1405: Comments: 3 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/video-of-seahawk-dropping-aid-in-haiti/</loc>
+		<lastmod>2010-01-17T03:22:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1376: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/haiti-military-disaster-relief-updates/</loc>
+		<lastmod>2010-01-17T00:54:34+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1347: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/list-of-military-aid-in-haiti/</loc>
+		<lastmod>2010-01-15T19:12:37+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1312: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/icrc-visits-talibans-prisoners/</loc>
+		<lastmod>2009-12-29T01:59:25+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1320: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/the-sons-of-war/</loc>
+		<lastmod>2009-12-29T01:38:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1329: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/the-politics-of-sunk-hospital-ships/</loc>
+		<lastmod>2009-12-28T22:40:04+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1317: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/recommended-reading-for-121709/</loc>
+		<lastmod>2009-12-18T18:04:25+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1308: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/the-art-of-successful-capitulation/</loc>
+		<lastmod>2009-12-15T16:56:58+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1290: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/usaid-as-a-weapon/</loc>
+		<lastmod>2009-12-15T00:10:33+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1276: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/moving-to-south-africa-for-fieldwork/</loc>
+		<lastmod>2009-12-14T18:19:19+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1274: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/legitimacy-health-and-obamas-surge/</loc>
+		<lastmod>2009-12-08T15:27:23+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1266: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/war-and-global-health-conference-april-2010/</loc>
+		<lastmod>2009-12-04T15:52:58+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1259: Comments: 4 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/does-the-navy-have-a-place-in-mcchrystals-war/</loc>
+		<lastmod>2009-11-30T20:03:39+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1255: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/spectrum-of-post-conflict-health-systems/</loc>
+		<lastmod>2009-11-30T17:16:09+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1246: Comments: 5 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/who-doesnt-pose-as-aidworkers-anymore/</loc>
+		<lastmod>2009-11-30T16:37:32+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1236: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/gates-views-of-militarys-role-in-development/</loc>
+		<lastmod>2009-11-23T18:00:59+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1228: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/130000-tamil-idps-released/</loc>
+		<lastmod>2009-11-23T17:35:12+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1220: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/datablog-journalism-plus-data/</loc>
+		<lastmod>2009-11-20T06:37:23+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1210: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/new-documentary-on-human-terrain-teams/</loc>
+		<lastmod>2009-11-18T23:45:39+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1208: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/conflict-health-readings-for-nov-18-2009/</loc>
+		<lastmod>2009-11-18T23:42:08+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1200: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/afghanistan-briefing-reveals-softer-coin/</loc>
+		<lastmod>2009-11-17T04:46:04+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1178: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/data-of-targeting-civilians/</loc>
+		<lastmod>2009-11-16T21:08:17+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 179: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/health-in-a-whole-of-government-approach-to-conflict/</loc>
+		<lastmod>2009-11-16T19:53:19+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1160: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/usaid-finally-gets-its-czar/</loc>
+		<lastmod>2009-11-14T18:28:03+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1165: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/un-peacekeepers-across-the-us-border/</loc>
+		<lastmod>2009-11-14T18:27:52+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1169: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/the-dutch-approach/</loc>
+		<lastmod>2009-11-14T17:40:52+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1156: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/afpak-from-a-human-security-perspective/</loc>
+		<lastmod>2009-11-10T22:38:50+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1149: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/shut-down-everything/</loc>
+		<lastmod>2009-11-04T19:27:50+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1139: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/global-health-essay-competition/</loc>
+		<lastmod>2009-10-22T16:19:09+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1135: Comments: 3 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/navys-new-slogan-highlights-soft-power-mission/</loc>
+		<lastmod>2009-10-22T16:17:52+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1132: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/conflict-and-health-blogs-you-should-be-reading/</loc>
+		<lastmod>2009-10-22T16:17:42+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1134: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/new-america-foundation-militants-67-of-drone-deaths/</loc>
+		<lastmod>2009-10-22T16:16:35+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1138: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/civilians-social-science-central-to-new-army-capstone-concept/</loc>
+		<lastmod>2009-10-22T16:16:17+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1130: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/h1n1-as-international-system-perturbation/</loc>
+		<lastmod>2009-10-13T04:01:50+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1129: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/hiv-screening-in-the-zambian-air-force/</loc>
+		<lastmod>2009-10-07T15:12:45+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 878: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/book-review-drugs-and-contemporary-warfare/</loc>
+		<lastmod>2009-10-06T15:37:47+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1122: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/epidemics-as-defensive-strategy/</loc>
+		<lastmod>2009-10-05T19:48:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1112: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/ibn-sina-hospital-closes/</loc>
+		<lastmod>2009-10-02T18:25:42+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 945: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/why-navies-love-soft-power/</loc>
+		<lastmod>2009-10-02T18:24:47+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1086: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/the-social-systemic-consequences-of-war/</loc>
+		<lastmod>2009-10-02T18:24:42+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1108: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/ltte-defeat-foreshadows-new-conflict/</loc>
+		<lastmod>2009-10-02T18:24:37+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1105: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/war-and-health-shuts-down-becomes-conflict-health/</loc>
+		<lastmod>2009-09-28T17:37:22+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://conflicthealth.com/topics/</loc>
+		<lastmod>2009-09-25T12:31:48+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 91: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/vulnerable-populations-vs-vulnerable-wildlife/</loc>
+		<lastmod>2009-09-25T12:29:12+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 94: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/peace-has-not-been-good-to-the-congo/</loc>
+		<lastmod>2009-09-25T12:28:59+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 95: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/rebeltube-and-mobresearch/</loc>
+		<lastmod>2009-09-25T12:28:36+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 125: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/iraq-ministry-of-health-needs-a-few-good-webmasters/</loc>
+		<lastmod>2009-09-25T12:28:09+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 102: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photos-of-a-medical-mission-to-sayafiyah/</loc>
+		<lastmod>2009-09-25T12:27:38+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 121: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/fact-of-the-day-drug-use-amongst-somali-militias/</loc>
+		<lastmod>2009-09-25T12:27:20+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 174: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/civilian-victims-in-an-asymmetrical-conflict-data/</loc>
+		<lastmod>2009-09-25T12:26:54+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 176: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/museum-exhibit-for-dc-readers/</loc>
+		<lastmod>2009-09-25T12:26:23+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 180: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/rip-nicole-suveges/</loc>
+		<lastmod>2009-09-25T12:26:15+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 173: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/new-health-systems-database/</loc>
+		<lastmod>2009-09-25T12:25:42+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 198: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/book-review-human-security-by-mary-kaldor/</loc>
+		<lastmod>2009-09-25T12:25:35+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 194: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/data-on-infant-mortality-rates-from-1816-to-2002/</loc>
+		<lastmod>2009-09-25T12:25:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 206: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/targeting-civilians-in-yemen/</loc>
+		<lastmod>2009-09-25T12:24:58+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 214: Comments: 3 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/the-good-the-bad/</loc>
+		<lastmod>2009-09-25T12:24:08+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 215: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/rand-removes-terrorism-incident-database/</loc>
+		<lastmod>2009-09-25T12:23:52+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 310: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/statistics-finland/</loc>
+		<lastmod>2009-09-25T12:22:56+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 487: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/embedded-with-gazan-medics/</loc>
+		<lastmod>2009-09-25T12:22:00+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 543: Comments: 5 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/the-cost-of-a-grunt/</loc>
+		<lastmod>2009-09-25T12:20:08+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 508: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/good-reads-for-january-26-2009/</loc>
+		<lastmod>2009-09-25T12:19:42+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 541: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/good-reads-for-february-8th-2009/</loc>
+		<lastmod>2009-09-25T12:19:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 549: Comments: 6 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/win-a-free-copy-of-threats-in-the-age-of-obama/</loc>
+		<lastmod>2009-09-25T12:19:21+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 551: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/csis-interview-with-s-ward-casscells/</loc>
+		<lastmod>2009-09-25T12:19:16+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 553: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/good-reads-for-feburary-22-2009/</loc>
+		<lastmod>2009-09-25T12:19:08+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 564: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/lra-increases-attacks-against-humanitarians-in-north-kivu/</loc>
+		<lastmod>2009-09-25T12:18:38+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 559: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/satellite-imagery-of-the-civilian-safety-zone-in-sri-lanka/</loc>
+		<lastmod>2009-09-25T12:18:25+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 577: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/iraq-casualties-infograph/</loc>
+		<lastmod>2009-09-25T12:17:52+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 580: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/we-have-a-winner/</loc>
+		<lastmod>2009-09-25T12:17:43+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 581: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/current-tv-on-africom-uss-fort-mchenry/</loc>
+		<lastmod>2009-09-25T12:17:27+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 588: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/robo-medics/</loc>
+		<lastmod>2009-09-25T12:17:12+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 620: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/the-spread-of-cholera-in-zimbabwe/</loc>
+		<lastmod>2009-09-25T12:16:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 605: Comments: 5 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/go-read-gail-fishers-new-blog-now/</loc>
+		<lastmod>2009-09-25T12:16:13+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 629: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/satellite-imagery-of-idp-shelters-in-sri-lanka/</loc>
+		<lastmod>2009-09-25T12:16:03+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 650: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/lack-of-security-enables-iraqi-measles-outbreak/</loc>
+		<lastmod>2009-09-25T12:15:55+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 627: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/five-dod-videos-on-health/</loc>
+		<lastmod>2009-09-25T12:15:26+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 633: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/good-reads-for-25-march-2009/</loc>
+		<lastmod>2009-09-25T12:15:21+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 645: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/good-reads-for-31st-march-2009/</loc>
+		<lastmod>2009-09-25T12:15:15+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 652: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/surgery-during-israel-lebanon-war/</loc>
+		<lastmod>2009-09-25T12:15:01+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 661: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/good-reads-for-april-9th-2009/</loc>
+		<lastmod>2009-09-25T12:14:35+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 658: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/good-reads-for-april-6th-2008/</loc>
+		<lastmod>2009-09-25T12:14:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 701: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/wars-effect-on-national-health-services/</loc>
+		<lastmod>2009-09-25T12:14:12+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 716: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/photos-of-sri-lankas-idps/</loc>
+		<lastmod>2009-09-25T12:14:00+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 713: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/us-navy-health-diplomacy-bloggingusn-health-diplomacy-blogging/</loc>
+		<lastmod>2009-09-25T12:13:46+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 789: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/munoc-goes-to-war/</loc>
+		<lastmod>2009-09-25T12:13:05+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 730: Comments: 4 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/passed-phd-candidate/</loc>
+		<lastmod>2009-09-25T12:12:59+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 791: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/good-reads-for-june-1st-2009-catch-up-edition/</loc>
+		<lastmod>2009-09-25T12:12:52+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 809: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/good-read-for-june-8th-2009/</loc>
+		<lastmod>2009-09-25T12:12:36+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 813: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/video-health-professionals-protesting-in-tehran/</loc>
+		<lastmod>2009-09-25T12:12:26+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 816: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/the-immunes/</loc>
+		<lastmod>2009-09-25T12:12:11+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 830: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/rip-robert-strange-mcnamara/</loc>
+		<lastmod>2009-09-25T12:11:56+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 843: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/review-before-my-helpless-sight/</loc>
+		<lastmod>2009-09-25T12:11:49+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 851: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/good-reads-ptsd-the-world-bank-and-russian-friendly-fire/</loc>
+		<lastmod>2009-09-25T12:11:35+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 857: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/h1n1-at-the-coast-guard-academy/</loc>
+		<lastmod>2009-09-25T12:11:19+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 868: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/data-on-250000-medieval-soldiers-is-online/</loc>
+		<lastmod>2009-09-25T12:10:25+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 872: Comments: 10 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/rss-feeds-for-international-relation-journals/</loc>
+		<lastmod>2009-09-25T12:10:21+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 882: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/the-fence-of-unintended-consequences/</loc>
+		<lastmod>2009-09-25T12:09:49+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 893: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/the-quantitative-effect-of-spray-and-pray/</loc>
+		<lastmod>2009-09-25T12:09:05+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 905: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/infochimps-the-dataset-search-engine/</loc>
+		<lastmod>2009-09-25T12:08:45+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 908: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/david-axes-ten-part-series-on-the-usns-comfort/</loc>
+		<lastmod>2009-09-25T12:08:41+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 910: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/thai-army-uses-health-to-win-hearts-and-minds/</loc>
+		<lastmod>2009-09-25T12:08:34+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 919: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/uganda-survey-of-war-affected-youth-datasets/</loc>
+		<lastmod>2009-09-25T12:08:21+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 929: Comments: 3 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/data-visualization-circa-1858/</loc>
+		<lastmod>2009-09-25T12:08:16+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://conflicthealth.com/archives/</loc>
+		<lastmod>2009-09-22T11:20:15+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 916: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/no-victory-through-offshore-balancing/</loc>
+		<lastmod>2009-09-09T14:31:00+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 913: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/h1n1-dont-fear-the-disease-fear-the-overreaction/</loc>
+		<lastmod>2009-09-08T15:48:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 911: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/reverse-health-diplomacy/</loc>
+		<lastmod>2009-09-08T13:21:47+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 891: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/col-peter-mansoor-on-humantiarian-neutrality/</loc>
+		<lastmod>2009-08-17T18:51:14+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 875: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/small-pox-and-the-siege-of-boston/</loc>
+		<lastmod>2009-07-27T16:42:01+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 863: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/map-of-the-siege-of-sarajevo/</loc>
+		<lastmod>2009-07-21T22:21:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 856: Comments: 3 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/the-uss-bonhomme-richards-quiet-swine-flu-outbreak/</loc>
+		<lastmod>2009-07-15T23:46:14+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 853: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/swine-flu-outbreak-at-the-air-force-academy/</loc>
+		<lastmod>2009-07-14T21:38:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 822: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/do-suicide-bombing-bystanders-save-lives/</loc>
+		<lastmod>2009-07-02T18:45:50+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 814: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/an-army-of-convalescents/</loc>
+		<lastmod>2009-06-29T16:28:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 808: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/civil-war-and-health-datasets/</loc>
+		<lastmod>2009-06-08T15:50:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 804: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/obamas-agent-orange-health-diplomacy/</loc>
+		<lastmod>2009-06-05T05:19:59+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 132: Comments: 10 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/excalibur-and-civilian-casualties/</loc>
+		<lastmod>2009-05-19T22:06:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 68: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/history-of-combat-trauma-bibliography/</loc>
+		<lastmod>2009-05-14T18:47:39+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 44: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/realism-and-constructivism-on-prisoners-of-war/</loc>
+		<lastmod>2009-05-13T02:00:09+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 22: Comments: 3 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/is-this-the-future-of-american-public-diplomacy-of-counterinsurgency/</loc>
+		<lastmod>2009-05-05T08:30:32+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 18: Comments: 5 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/mapping-the-health-of-military-campaigns/</loc>
+		<lastmod>2009-04-30T21:45:30+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 696: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/sri-lankas-human-shields/</loc>
+		<lastmod>2009-04-24T01:21:17+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 684: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/climate-change-health-and-security/</loc>
+		<lastmod>2009-04-20T23:05:39+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 663: Comments: 3 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/attacks-on-humanitarians-in-afghanistan/</loc>
+		<lastmod>2009-04-14T17:41:27+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 32: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/the-doctor-drain-and-health-neutrality/</loc>
+		<lastmod>2009-04-07T21:41:11+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 655: Comments: 5 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/armed-conflict-public-health-twitter/</loc>
+		<lastmod>2009-04-03T21:01:01+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 649: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/health-neutrality-and-the-spanish-civil-war/</loc>
+		<lastmod>2009-04-01T17:21:32+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 648: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/george-orwell-in-tarragona/</loc>
+		<lastmod>2009-04-01T16:56:22+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 639: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/untitled-1/</loc>
+		<lastmod>2009-03-30T06:53:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 624: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/on-global-health-and-foreign-policy/</loc>
+		<lastmod>2009-03-23T17:06:27+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 623: Comments: 3 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/battleships-and-asbestos/</loc>
+		<lastmod>2009-03-23T15:43:43+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 610: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/laser-shooting-uavs-to-kill-mosquitos/</loc>
+		<lastmod>2009-03-17T21:36:41+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 602: Comments: 3 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/health-effects-of-civil-war-in-guinea-bissau/</loc>
+		<lastmod>2009-03-12T15:07:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 597: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/can-the-us-air-force-save-darfur/</loc>
+		<lastmod>2009-03-10T02:54:14+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 592: Comments: 6 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/human-securitys-many-definitions/</loc>
+		<lastmod>2009-03-09T15:09:30+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 585: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/why-you-should-crowdfund-david-axe/</loc>
+		<lastmod>2009-03-05T17:49:07+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 568: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/the-desert-fox-and-the-nz-hospital/</loc>
+		<lastmod>2009-03-01T16:03:03+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 561: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/disease-in-urban-warfare/</loc>
+		<lastmod>2009-02-27T16:50:58+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 546: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/pregnancy-in-a-civil-war/</loc>
+		<lastmod>2009-02-20T16:09:20+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 533: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/in-nyc-febuary-16th-come-have-some-drinks/</loc>
+		<lastmod>2009-02-05T04:20:21+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 531: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/how-the-other-half-does-counterinsurgency/</loc>
+		<lastmod>2009-02-03T05:27:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 529: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/fighting-the-white-plague-in-wwii/</loc>
+		<lastmod>2009-02-02T08:04:24+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 525: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/uno-satellite-images-tracke-the-gaza-war/</loc>
+		<lastmod>2009-01-29T04:53:02+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 513: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/threats-in-the-age-of-obama-infectious-diseases-foreign-militaries-and-us-national-security/</loc>
+		<lastmod>2009-01-27T06:56:52+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 500: Comments: 5 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/send-a-navy-hospital-ship-to-gaza/</loc>
+		<lastmod>2009-01-22T18:11:15+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 497: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/maps-of-gaza-conflict/</loc>
+		<lastmod>2009-01-22T05:21:37+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 492: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/the-strategic-threats-of-global-health/</loc>
+		<lastmod>2009-01-21T16:30:22+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 489: Comments: 4 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/qualifying-exam-results/</loc>
+		<lastmod>2009-01-21T04:56:04+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 485: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/the-little-blue-pill-in-war/</loc>
+		<lastmod>2009-01-15T03:04:21+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 475: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/white-phosphorus-101/</loc>
+		<lastmod>2009-01-13T05:50:32+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 469: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/a-message-to-readers/</loc>
+		<lastmod>2009-01-11T19:55:08+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 426: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/the-us-navys-first-hospital-ship/</loc>
+		<lastmod>2008-12-18T06:59:05+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 424: Comments: 5 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/brazils-brown-water-hospital-ships/</loc>
+		<lastmod>2008-12-11T06:44:05+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 461: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/map-of-casualties-in-afghanistan/</loc>
+		<lastmod>2008-12-10T02:02:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 421: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/the-politics-of-inoculating-washingtons-army-from-small-pox/</loc>
+		<lastmod>2008-12-04T05:38:01+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 444: Comments: 3 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/ushahidi-after-mumbai/</loc>
+		<lastmod>2008-11-27T18:46:11+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 412: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/infectious-disease-during-the-cuban-insurrection-1895-98/</loc>
+		<lastmod>2008-11-27T01:38:49+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 434: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/timeless-words-on-typhus/</loc>
+		<lastmod>2008-11-24T02:44:55+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 411: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/attacking-humanitarians-as-strategy-ii/</loc>
+		<lastmod>2008-11-20T00:52:16+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 405: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/using-satellites-to-map-cholera-epidemics/</loc>
+		<lastmod>2008-11-15T05:43:46+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 401: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/iraqs-war-against-corruption-and-cholera/</loc>
+		<lastmod>2008-11-12T03:11:27+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 396: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/ushahidi-deploys-in-the-drc/</loc>
+		<lastmod>2008-11-07T18:56:15+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 386: Comments: 51 of 495 = 0.1 points -->
+	<url>
+		<loc>http://conflicthealth.com/pray-for-paula-loyd/</loc>
+		<lastmod>2008-11-06T19:32:41+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 321: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/minds-wills-and-fruit-trees/</loc>
+		<lastmod>2008-11-05T23:14:47+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 320: Comments: 3 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/chinas-new-hospital-ship/</loc>
+		<lastmod>2008-11-04T17:12:01+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 318: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/when-in-doubt-side-with-the-government/</loc>
+		<lastmod>2008-10-30T19:09:27+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 316: Comments: 8 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/infectious-disease-trends-during-the-us-civil-war/</loc>
+		<lastmod>2008-10-29T05:17:37+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 315: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/can-we-crew-uscg-hospital-ships/</loc>
+		<lastmod>2008-10-23T18:13:41+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 314: Comments: 3 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/two-experts-give-the-coast-guard-hospital-ships/</loc>
+		<lastmod>2008-10-19T19:20:32+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 311: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/training-local-health-providers-in-counterinsurgency/</loc>
+		<lastmod>2008-10-17T05:38:11+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 307: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/fake-embassies-fake-refuge/</loc>
+		<lastmod>2008-10-12T06:13:09+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 306: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/british-military-suicides-in-the-falklands-and-iraq/</loc>
+		<lastmod>2008-10-11T05:55:40+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 304: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/un-satellite-team-tracks-georgian-war-damage/</loc>
+		<lastmod>2008-10-08T02:53:51+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 301: Comments: 4 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/un-satellite-map-of-hijacks-ships/</loc>
+		<lastmod>2008-10-04T06:05:40+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 207: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/un-resolution-1820-and-rape-epidemics-in-war/</loc>
+		<lastmod>2008-08-18T18:12:27+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 247: Comments: 7 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/a-day-in-the-life/</loc>
+		<lastmod>2008-08-17T01:46:32+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 235: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/welcome-to-happy-valley/</loc>
+		<lastmod>2008-08-12T23:28:12+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 233: Comments: 4 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/navy-the-new-media/</loc>
+		<lastmod>2008-08-11T15:22:34+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 228: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/kearsarge-operation-smile-and-kids/</loc>
+		<lastmod>2008-08-08T21:13:36+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 227: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/the-wardroom/</loc>
+		<lastmod>2008-08-08T20:35:06+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 224: Comments: 4 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/uss-kearsarge-first-impressions/</loc>
+		<lastmod>2008-08-07T01:04:35+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 222: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/attacking-humanitarians-as-a-strategy/</loc>
+		<lastmod>2008-07-30T04:36:02+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 217: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/when-air-strikes-lose-hearts-minds/</loc>
+		<lastmod>2008-07-28T17:42:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 212: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/kosovos-hidden-field-hospital/</loc>
+		<lastmod>2008-07-23T14:32:50+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 221: Comments: 4 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/war-health-is-setting-sail-aboard-the-uss-kearsarge/</loc>
+		<lastmod>2008-07-21T22:34:17+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 219: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/colombian-hostage-rescue-could-of-been-discovered-by-a-single-internet-search/</loc>
+		<lastmod>2008-07-16T03:23:03+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 204: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/the-health-diplomacy-you-never-hear-about/</loc>
+		<lastmod>2008-07-15T17:37:26+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 202: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/israeli-use-of-cluster-munitions/</loc>
+		<lastmod>2008-07-11T04:31:58+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 199: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/the-securitization-of-services-in-iraq/</loc>
+		<lastmod>2008-07-08T14:03:39+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 197: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/iraqs-service-surge/</loc>
+		<lastmod>2008-07-01T05:50:35+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 190: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/the-brussels-declaration-of-1874-on-hospitals-during-sieges/</loc>
+		<lastmod>2008-06-28T04:24:03+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 186: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/predicting-casualty-causing-attacks/</loc>
+		<lastmod>2008-06-28T01:23:16+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 183: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/zimbabwean-health-services-facilitating-political-violence/</loc>
+		<lastmod>2008-06-27T22:40:07+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 181: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/new-required-reading/</loc>
+		<lastmod>2008-06-26T02:00:23+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 177: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/col-mcgrath-kandahar-prison-break-not-effecting-medcap-prt-operations/</loc>
+		<lastmod>2008-06-23T17:28:53+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 172: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/system-disruption-hiv-aid/</loc>
+		<lastmod>2008-06-16T19:06:46+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 169: Comments: 3 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/col-peter-mansoor-on-health-in-counterinsurgency-doctrine/</loc>
+		<lastmod>2008-06-13T15:30:47+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 166: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/refugees-as-weapons-of-war/</loc>
+		<lastmod>2008-05-23T17:22:11+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 165: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/in-counterinsurgency-hospitals-are-the-commanding-heights/</loc>
+		<lastmod>2008-05-22T00:29:17+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 160: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/burma-the-rosinenbombers/</loc>
+		<lastmod>2008-05-14T15:01:45+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 159: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/women-in-the-lord%e2%80%99s-resistance-army/</loc>
+		<lastmod>2008-05-12T20:09:22+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 154: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/sadr-hospital-airstrike-and-health-care-network/</loc>
+		<lastmod>2008-05-07T17:01:51+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 150: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/hearts-minds-and-health-in-sadr-city/</loc>
+		<lastmod>2008-04-22T17:56:07+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 148: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/mapping-mogadishus-insurgency/</loc>
+		<lastmod>2008-04-22T15:40:34+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 146: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/hivaids-and-african-militaries/</loc>
+		<lastmod>2008-04-22T03:45:12+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 144: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/malthus-revenge/</loc>
+		<lastmod>2008-04-16T21:14:59+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 142: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/privately-building-liberia%e2%80%99s-public-army/</loc>
+		<lastmod>2008-04-14T22:46:10+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 141: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/escorting-food-aid/</loc>
+		<lastmod>2008-04-09T23:55:20+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 136: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/un-somali-pirate-map/</loc>
+		<lastmod>2008-03-31T22:37:49+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 118: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/obtaining-un-data-just-got-easier/</loc>
+		<lastmod>2008-03-12T21:50:38+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 115: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/four-reasons-you-should-be-reading-matt-armstrong/</loc>
+		<lastmod>2008-03-08T04:06:06+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 111: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/un-satellites-photography-human-exodus-from-chad/</loc>
+		<lastmod>2008-03-06T00:39:45+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 109: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/health-infrastructure/</loc>
+		<lastmod>2008-03-04T00:50:02+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 105: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/child-soldiers-and-hiv/</loc>
+		<lastmod>2008-02-29T00:11:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 96: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/conflict-populations/</loc>
+		<lastmod>2008-02-20T09:36:09+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 87: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/the-numbers-of-genocide/</loc>
+		<lastmod>2008-02-12T10:48:33+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 63: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/winning-hearts-and-minds-through-livestock/</loc>
+		<lastmod>2008-02-06T01:00:08+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 54: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/free-military-history-books/</loc>
+		<lastmod>2008-01-26T05:37:10+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 51: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/polio-vaccinations-as-a-coin-strategy/</loc>
+		<lastmod>2008-01-24T03:43:22+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 50: Comments: 1 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/kenyan-violence-premeditated/</loc>
+		<lastmod>2008-01-22T03:41:34+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 47: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/unosat-maps-nairobis-damage/</loc>
+		<lastmod>2008-01-19T20:43:57+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 40: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/counting-iraq%e2%80%99s-dead/</loc>
+		<lastmod>2008-01-12T03:09:25+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 38: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/ushahidi-and-disaster-informational-exchanges/</loc>
+		<lastmod>2008-01-11T17:57:12+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 30: Comments: 2 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/mapping-kenyan-election-violence-via-satellite/</loc>
+		<lastmod>2008-01-04T17:12:21+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 28: Comments: 0 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/matt-armstrong-on-in-sourcing-national-power/</loc>
+		<lastmod>2008-01-04T05:23:39+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 15: Comments: 3 of 495 = 0 points -->
+	<url>
+		<loc>http://conflicthealth.com/hospital-security-guards-in-iraq/</loc>
+		<lastmod>2008-01-01T04:05:01+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: End Postings -->
+<!-- Debug: Start Custom Pages -->
+<!-- Debug: End Custom Pages -->
+<!-- Debug: Start additional URLs -->
+<!-- Debug: End additional URLs -->
+</urlset>

@@ -1,0 +1,15 @@
+/*
+Description:	IE styles for the Thesis Theme
+Author:			Chris Pearson
+*/
+
+/*---:[ all versions of IE ]:---*/
+body.ie { font-size: 125%; }
+	.ie #container, .ie .full_width { font-size: 50%; }
+	.ie ul#tabs { width: 100%; }
+	.ie input.form_submit { width: auto; overflow: visible; }
+
+/*---:[ IE 6 styles ]:---*/
+.ie6 #content, .ie6.sidebar { overflow: hidden; }
+.ie6 dl#comment_list dd { border-bottom: 1px dotted #bbb; }
+	.ie6 dl#comment_list dl.children dd { border-bottom: 0 }

@@ -1,0 +1,244 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contextual Related Posts 1.5.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-02-20 11:50+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ajay D'Souza <me@ajaydsouza.com>\n"
+"Language-Team: Team Blogos <wordpress@blogos.dk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2;plural=n != 1;\n"
+"X-Poedit-Language: Danish\n"
+"X-Poedit-Country: DENMARK\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_c;_e;__ngettext:1,2;__ngettext_noop:1,2;_n:1,2;_nc:1,2;_n_noop:1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin.inc.php:50
+msgid "Options saved successfully."
+msgstr "Indstillingerne blev gemt."
+
+#: admin.inc.php:59
+msgid "Options set to Default."
+msgstr "Indstillingerne sat til standardværdier."
+
+#: admin.inc.php:74
+msgid "Index recreated"
+msgstr "Indeks blev gendannet"
+
+#: admin.inc.php:86
+msgid "Options:"
+msgstr "Indstillinger:"
+
+#: admin.inc.php:91
+msgid "Number of related posts to display: "
+msgstr "Antal Lignende indlæg, der skal vises: "
+
+#: admin.inc.php:95
+msgid "Exclude Categories: "
+msgstr "Udelad kategorier: "
+
+#: admin.inc.php:113
+msgid "Add related posts to the post content on single posts. <br />If you choose to disable this, please add <code>&lt;?php if(function_exists('echo_ald_crp')) echo_ald_crp(); ?&gt;</code> to your template file where you want it displayed"
+msgstr "Tilføj Lignende indlæg til indlæggenes indhold i enkelt-indlæg. <br />Hvis du vælger at deaktivere dette, skal du tilføje <code>&lt;?php if(function_exists('echo_ald_crp')) echo_ald_crp(); ?&gt;</code> til din skabelonfil, hvor du ønsker de lignende indlæg vist"
+
+#: admin.inc.php:119
+msgid "Add related posts to pages. <br />If you choose to disable this, please add <code>&lt;?php if(function_exists('echo_ald_crp')) echo_ald_crp(); ?&gt;</code> to your template file where you want it displayed"
+msgstr "Tilføj Lignende indlæg til statiske sider. <br />Hvis du vælger at deaktivere dette, skal du tilføje <code>&lt;?php if(function_exists('echo_ald_crp')) echo_ald_crp(); ?&gt;</code> til din skabelonfil, hvor du ønsker de lignende indlæg vist"
+
+#: admin.inc.php:125
+msgid "Add related posts to feed"
+msgstr "Tilføj Lignende indlæg til feeds"
+
+#: admin.inc.php:131
+msgid "Find related posts based on content as well as title. If unchecked, only posts titles are used. (I recommend using a caching plugin if you enable this)"
+msgstr "Find Lignende indlæg ud fra såvel indhold som titel. Hvis umarkeret, bruges kun indlæggenes titler (jeg anbefaler et cache-plugin, hvis du aktiverer dette)"
+
+#: admin.inc.php:137
+msgid "Exclude Pages in Related Posts"
+msgstr "Udelad sider i Lignende indlæg"
+
+#: admin.inc.php:143
+msgid "Append link to this plugin as item. Optional, but would be nice to give me some link love"
+msgstr ""
+
+#: admin.inc.php:147
+msgid "Output Options:"
+msgstr "Indstillinger for output:"
+
+#: admin.inc.php:151
+msgid "Title of related posts: "
+msgstr "Titel på Lignende indlæg: "
+
+#: admin.inc.php:155
+msgid "When there are no posts, what should be shown?"
+msgstr "Hvad skal der vises, hvis der ingen indlæg er?"
+
+#: admin.inc.php:158
+msgid "Blank Output"
+msgstr "Intet"
+
+#: admin.inc.php:162
+msgid "Display \"No Related Posts\""
+msgstr "Vis \"Ingen lignende indlæg\""
+
+#: admin.inc.php:168
+msgid "Show post excerpt in list?"
+msgstr ""
+
+#: admin.inc.php:173
+msgid "Length of excerpt (in words): "
+msgstr ""
+
+#: admin.inc.php:177
+msgid "Customize the output:"
+msgstr "Tilpas outputtet:"
+
+#: admin.inc.php:180
+msgid "HTML to display before the list of posts: "
+msgstr "HTML, der skal vises før listen med indlæg: "
+
+#: admin.inc.php:186
+msgid "HTML to display before each list item: "
+msgstr "HTML, der skal vises før hvert punkt på listen: "
+
+#: admin.inc.php:192
+msgid "HTML to display after each list item: "
+msgstr "HTML, der skal vises efter hvert punkt på listen: "
+
+#: admin.inc.php:198
+msgid "HTML to display after the list of posts: "
+msgstr "HTML, der skal vises efter listen med indlæg: "
+
+#: admin.inc.php:202
+msgid "Post thumbnail options:"
+msgstr "Indstillinger for indlægsminiaturer:"
+
+#: admin.inc.php:206
+msgid "Display thumbnails inline with posts"
+msgstr "Vis miniaturer inline med indlæg"
+
+#: admin.inc.php:210
+msgid "Display only thumbnails, no text"
+msgstr "Vis kun miniaturer, ingen tekst"
+
+#: admin.inc.php:214
+msgid "Do not display thumbnails, only text."
+msgstr "Vis ikke miniaturer, kun tekst."
+
+#: admin.inc.php:219
+msgid "Post thumbnail meta field (the meta should point contain the image source): "
+msgstr "Metafelt for indlægsminiaturer (metafeltet skal indeholde URL&#39;en til billedet): "
+
+#: admin.inc.php:226
+msgid "If the postmeta is not set, then should the plugin extract the first image from the post. This can slow down the loading of your post if the first image in the related posts is large in file-size"
+msgstr ""
+
+#: admin.inc.php:229
+msgid "Thumbnail dimensions:"
+msgstr "Miniaturedimensioner:"
+
+#: admin.inc.php:231
+msgid "Max width: "
+msgstr "Max bredde: "
+
+#: admin.inc.php:236
+msgid "Max height: "
+msgstr "Max højde: "
+
+#: admin.inc.php:240
+msgid "The plugin will first check if the post contains a thumbnail. If it doesn't then it will check the meta field. If this is not available, then it will show the default image as specified below:"
+msgstr "Pluginnet tjekker først, om indlægget indeholder en miniature. Hvis indlægget ikke gør det, tjekker pluginnet metafeltet. Hvis dette ikke findes, vil det vise standardbilledet specificeret nedenfor:"
+
+#: admin.inc.php:245
+msgid "Do you want to set options to Default?"
+msgstr "Ønsker du at sætte indstillingerne til standardværdierne?"
+
+#: admin.inc.php:246
+msgid "Are you sure you want to recreate the index?"
+msgstr "Er du sikker på, du ønsker at gendanne indekset?"
+
+#: admin.inc.php:254
+msgid "Quick links"
+msgstr ""
+
+#: admin.inc.php:256
+#, fuzzy
+msgid "Contextual Related Posts "
+msgstr "Related Posts (Lignende indlæg)"
+
+#: admin.inc.php:256
+msgid "plugin page"
+msgstr ""
+
+#: admin.inc.php:257
+msgid "Other plugins"
+msgstr ""
+
+#: admin.inc.php:258
+msgid "Ajay's blog"
+msgstr ""
+
+#: admin.inc.php:259
+#, fuzzy
+msgid "Support forum"
+msgstr "Support"
+
+#: admin.inc.php:260
+msgid "Follow @ajaydsouza on Twitter"
+msgstr ""
+
+#: admin.inc.php:264
+msgid "Recent developments"
+msgstr ""
+
+#: admin.inc.php:269
+#, fuzzy
+msgid "Support the development"
+msgstr "Støt udviklingen"
+
+#: admin.inc.php:277
+msgid "Enter amount in USD: "
+msgstr ""
+
+#: admin.inc.php:281
+msgid "Send your donation to the author of"
+msgstr ""
+
+#: admin.inc.php:309
+#, fuzzy
+msgid "Contextual Related Posts"
+msgstr "Related Posts (Lignende indlæg)"
+
+#: admin.inc.php:309
+msgid "Related Posts"
+msgstr "Related Posts (Lignende indlæg)"
+
+#: contextual-related-posts.php:127
+msgid "Powered by"
+msgstr ""
+
+#: contextual-related-posts.php:132
+#: contextual-related-posts.php:136
+msgid "No related posts found"
+msgstr "Ingen lignende indlæg fundet"
+
+#: contextual-related-posts.php:169
+msgid "<h3>Related Posts:</h3>"
+msgstr "<h3>Lignende indlæg:</h3>"
+
+#: contextual-related-posts.php:267
+msgid "Settings"
+msgstr "Opsætning"
+
+#: contextual-related-posts.php:268
+msgid "Support"
+msgstr "Support"
+
+#: contextual-related-posts.php:269
+msgid "Donate"
+msgstr "Donation"
+

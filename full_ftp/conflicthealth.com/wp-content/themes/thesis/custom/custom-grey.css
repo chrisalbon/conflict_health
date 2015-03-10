@@ -1,0 +1,121 @@
+conf/*
+File:			custom.css
+Description:	Custom styles for Thesis
+
+BASIC USAGE:
+
+If you have enabled the custom stylesheet in the Thesis options panel, the <body> tag 
+will be appended with the "custom" class, like so: <body class="custom">. You can use 
+the "custom" class to override *any* CSS declarations contained in the style.css file.
+
+For example, if you wish to change the default link color to green, you would add the 
+following declarations to this file:
+
+	.custom a, .custom a:visited { color: #090; }	<--- This makes links green
+	.custom a:hover { color: #00f; }				<--- This makes links blue when you mouse over them
+
+WHY THIS WORKS:
+
+By using the "custom" class, you are creating more specific CSS declarations for HTML
+elements. CSS styling is applied through rules of specificity, and because declarations
+prepended with .custom are more specific, they get applied when the page is rendered!
+
+More information about styling your Thesis installation using this file can be found
+in the User's Guide:
+	http://diythemes.com/thesis/rtfm/customizing-thesis-with-customcss/
+*/
+
+body { background-repeat: repeat-x; background-color: #fff; color: #111; }
+
+/* Header */
+.custom #header_area {background: url(images/green-bg.png); background-repeat: repeat-x; background-color: #4F4D3C; }
+.custom #header {padding-top: 2em; padding-bottom: 2em; text-align: right; border-bottom:0; background: url(images/conflicthealth-logo-v3.png) 0em no-repeat;}
+.custom #header #tagline { color: #fff;}
+
+/* Top Area 
+.custom #top_area {background-color: #EFEFDD; color: #4F4D3C; padding: .5em 0 .5em 0;}
+.custom #top_area a{color: #4F4D3C; font-size: 1.1em;} */
+	
+/* Nav Area */	
+.custom #nav_area {background-color: #4F4D3C; border-bottom:1px solid #38362B; padding-top:10px;}
+.custom ul#tabs {border-bottom:0; border-color:#38362B;}
+.custom ul#tabs li {border-color:#38362B; background-color:#595744;}
+.custom ul#tabs li a, ul#tabs li a:visited {text-transform: none; color: #fff; letter-spacing: 0px; }
+.custom ul#tabs li.current_page_item, .custom ul#tabs li.current-cat {background:#fff; color: #111;}
+.custom ul#tabs li.current_page_item a, .custom ul#tabs li.current-cat a{color: #111;}
+
+/* Entry Text */
+.custom .format_text {line-height:1.5em; font-family: Georgia, "Times New Roman", Times, serif;}
+
+/* Drop Cap */
+.custom .format_text .drop_cap { font-size: 41pt; font-weight: bold; color: #FF4F00; letter-spacing: -2px;}
+
+/* Subscriber Box */
+.custom .subscriber {
+font-weight: bold;
+border: 1px solid #ccc; 
+padding: .7em;
+background: url(images/bg.png); 
+background-color: #fff; 
+background-repeat: repeat-x; 
+font-size: 1.2em;
+}
+.custom .subscriber a{ color: #333;}
+.custom .subscriber img{ float:right; margin: -22px 0;}
+.custom .subscriber li { line-height:1.3em; margin-bottom: 0;}
+
+/* Remove "Comments on this entry are closed." Text */
+.custom .comments_closed p {display: none ;}
+
+/* Read More Link */
+.custom .more-link {font-weight: bold;}
+
+/* Image Frame */
+.custom .format_text img.frame { background: #fff; border: 1px solid #666; padding: .25em;}
+
+/* Entry Title */
+.custom .entry-title, .custom h2 a, h2 a:visited, .custom .headline_area h1 {letter-spacing: -1px; line-height:1em; font-weight: bold; text-decoration: none;}
+
+/* Entry Title Meta Information */
+.custom .headline_meta span, .headline_meta abbr { font-style: normal; text-transform: none; letter-spacing: 0px;}
+
+/* Blockquote */
+.custom blockquote {min-height:45px; margin-left: 0; padding-left: 3.3em; background: url(images/quote.gif) ; line-height: 1.1em; background-repeat: no-repeat; border-left: 0; }
+.custom blockquote p {color: #666; }
+
+/* After Post Items */
+.custom .after_post, .custom .after_post_subscribe, .custom .post_tags {font-style: italic; border: 1px dotted #666; border-width: 1px 0px 1px 0px; padding: .5em;}
+.custom .after_post_subscribe {font-size: 1.05em; font-style: normal; }
+
+/* Sidebar */
+.custom .sidebar h3 { color: #111; font-weight: bold; font-size: 1.4em; margin-bottom: .2em; letter-spacing: 0px;}
+.custom .sidebar li.widget { margin-bottom: 1em; }
+.custom .widget_killer_recent_entries li {border-bottom: 1px dotted #ccc;}
+	
+/* Teasers */
+.custom .teaser a.teaser_link { font-weight: bold; }
+
+/* Comments */
+.custom dl#comment_list .bypostauthor { background: #E8E8E8; }
+
+/* Amazon Book Box */
+.custom .amazon-box {padding:.5em; margin: .5em; float: left; border: 1px solid #ccc;}
+.custom .amazon-text {text-align: center; font-weight: bold;}
+
+/* Topics Clouds Page */
+
+.custom #post-750 a {text-decoration: none}
+
+/* Author Widget */
+.custom .author_widget {
+border: 1px solid #ccc; 
+padding: .7em;
+font-size: 1em;
+color:#555;
+background: url(images/bg.png); 
+background-repeat: repeat-x; 
+background-color: #fff;
+}
+.custom .author_widget a{ font-weight: bold;}
+.custom .author_widget img{ margin-left: .5em; float:right; border: 1px solid #666; }
+.custom .author_widget .author_widget_name {font-size:1.1em; font-weight: bold; color:#111;}

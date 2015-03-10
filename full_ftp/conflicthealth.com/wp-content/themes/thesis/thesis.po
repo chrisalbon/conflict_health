@@ -1,0 +1,1708 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Thesis\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-05-17 02:11-0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Rick Beckman <rick.beckman@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:17
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:41
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: comments.php:71
+msgid "Comments on this entry are closed."
+msgstr ""
+
+#: comments.php:80
+#, php-format
+msgid "You must <a href=\"%s\" rel=\"nofollow\">log in</a> to post a comment."
+msgstr ""
+
+#: comments.php:88
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:88
+#, php-format
+msgid "Reply to %s:"
+msgstr ""
+
+#: comments.php:96
+msgid "Cancel reply."
+msgstr ""
+
+#: comments.php:109
+msgid "You can use these <acronym title=\"HyperText Markup Language\">HTML</acronym> tags and attributes:"
+msgstr ""
+
+#: comments.php:118
+msgid "Submit"
+msgstr ""
+
+#: lib/admin/admin.php:18
+#: lib/admin/options_page.php:10
+msgid "Thesis Options"
+msgstr ""
+
+#: lib/admin/admin.php:19
+msgid "Design Options"
+msgstr ""
+
+#: lib/admin/admin.php:36
+msgid "Attention!"
+msgstr ""
+
+#: lib/admin/admin.php:36
+msgid "Your <code>thesis/layout.css</code> file is not writable by the server, and in order to work the full extent of its magic, Thesis needs to be able to write to this file. All you have to do is set your <code>layout.css</code> file permissions to 666, and you'll be good to go. After setting your file permissions, you should head to the <a href=\""
+msgstr ""
+
+#: lib/admin/admin.php:89
+msgid "Big Ass Save Button"
+msgstr ""
+
+#: lib/admin/admin.php:232
+msgid "<acronym title=\"Search Engine Optimization\">SEO</acronym> Details and Additional Style"
+msgstr ""
+
+#: lib/admin/admin.php:241
+msgid "Custom Title Tag"
+msgstr ""
+
+#: lib/admin/admin.php:242
+msgid "By default, Thesis uses the title of your post as the contents of the <code>&lt;title&gt;</code> tag. You can override this and further extend your on-page <acronym title=\"Search Engine Optimization\">SEO</acronym> by entering your own <code>&lt;title&gt;</code> tag below."
+msgstr ""
+
+#: lib/admin/admin.php:243
+msgid "custom <code>&lt;title&gt;</code> tag"
+msgstr ""
+
+#: lib/admin/admin.php:252
+msgid "Meta Description"
+msgstr ""
+
+#: lib/admin/admin.php:253
+msgid "Entering a <code>&lt;meta&gt;</code> description is just one more thing you can do to seize an on-page <acronym title=\"Search Engine Optimization\">SEO</acronym> opportunity. Keep in mind that a good <code>&lt;meta&gt;</code> description is both informative and concise."
+msgstr ""
+
+#: lib/admin/admin.php:254
+msgid "<code>&lt;meta&gt;</code> description"
+msgstr ""
+
+#: lib/admin/admin.php:263
+msgid "Meta Keywords"
+msgstr ""
+
+#: lib/admin/admin.php:264
+msgid "Like the <code>&lt;meta&gt;</code> description, <code>&lt;meta&gt;</code> keywords are yet another on-page <acronym title=\"Search Engine Optimization\">SEO</acronym> opportunity. Enter a few keywords that are relevant to your article, but don&#8217;t go crazy here&#8212;just a few should suffice."
+msgstr ""
+
+#: lib/admin/admin.php:265
+msgid "<code>&lt;meta&gt;</code> keywords"
+msgstr ""
+
+#: lib/admin/admin.php:274
+msgid "Noindex this Page"
+msgstr ""
+
+#: lib/admin/admin.php:275
+msgid "From time to time, you may wish to keep a particular post or page from appearing in the search engines. Checking this box will add the <code>noindex</code> robot meta tag to this page, thereby preventing it from being indexed in the search engines."
+msgstr ""
+
+#: lib/admin/admin.php:276
+msgid "add a <code>noindex</code> robot meta tag to this page"
+msgstr ""
+
+#: lib/admin/admin.php:285
+msgid "<acronym title=\"Cascading Style Sheet\">CSS</acronym> Class"
+msgstr ""
+
+#: lib/admin/admin.php:286
+msgid "If you want to style this post individually via <acronym title=\"Cascading Style Sheet\">CSS</acronym>, you should enter a class name below. <strong>Note</strong>: <acronym title=\"Cascading Style Sheet\">CSS</acronym> class names cannot begin with numbers!"
+msgstr ""
+
+#: lib/admin/admin.php:287
+msgid "<acronym title=\"Cascading Style Sheet\">CSS</acronym> class name"
+msgstr ""
+
+#: lib/admin/admin.php:295
+msgid "Post Image and Thumbnail"
+msgstr ""
+
+#: lib/admin/admin.php:304
+msgid "Post Image"
+msgstr ""
+
+#: lib/admin/admin.php:305
+#, php-format
+msgid "To add a post image, simply upload an image with the <em>Add an Image</em> button above, and then paste the <strong>Link <acronym title=\"Uniform Resource Locator\">URL</acronym></strong> here. If you like, you can also add your own <code>alt</code> text for the image in the appropriate field below. Based on the current width of your content column, the maximum width for post images is %1$s pixels. Based on your content width <em>and</em> current font size settings, the maximum width for framed post images is %2$s pixels. Finally, there are certain areas around the theme where full-size post images cannot be displayed. In this case, Thesis will automatically crop your post image into a thumbnail with default dimensions as specified on the <a href=\"%3$s\">Design Options</a> page. If you like, you can override this (on this post only) by specifying your own thumbnail dimensions below. Please note that automatic thumbnail generation requires your image to be hosted at <strong>%4$s</strong>."
+msgstr ""
+
+#: lib/admin/admin.php:306
+msgid "post image <acronym title=\"Uniform Resource Locator\">URL</acronym> (including <code>http://</code>)"
+msgstr ""
+
+#: lib/admin/admin.php:317
+msgid "post image <code>alt</code> text"
+msgstr ""
+
+#: lib/admin/admin.php:328
+msgid "add a frame to this post image"
+msgstr ""
+
+#: lib/admin/admin.php:337
+#: lib/admin/admin.php:407
+msgid "flush left with no text wrap"
+msgstr ""
+
+#: lib/admin/admin.php:338
+#: lib/admin/admin.php:408
+msgid "left with text wrap"
+msgstr ""
+
+#: lib/admin/admin.php:339
+#: lib/admin/admin.php:409
+msgid "right with text wrap"
+msgstr ""
+
+#: lib/admin/admin.php:340
+#: lib/admin/admin.php:410
+msgid "centered (no wrap)"
+msgstr ""
+
+#: lib/admin/admin.php:345
+#: lib/admin/admin.php:415
+msgid "Horizontal Position"
+msgstr ""
+
+#: lib/admin/admin.php:356
+#: lib/admin/admin.php:426
+msgid "above headline"
+msgstr ""
+
+#: lib/admin/admin.php:357
+#: lib/admin/admin.php:427
+msgid "below headline"
+msgstr ""
+
+#: lib/admin/admin.php:358
+#: lib/admin/admin.php:428
+msgid "before post/page content"
+msgstr ""
+
+#: lib/admin/admin.php:363
+#: lib/admin/admin.php:433
+msgid "Vertical Position"
+msgstr ""
+
+#: lib/admin/admin.php:374
+msgid "Thumbnail Image"
+msgstr ""
+
+#: lib/admin/admin.php:375
+msgid "If you like, you can supply your own thumbnail image. If you do this, the new thumbnail image will not be cropped, so make sure that you size the image appropriately before adding it here."
+msgstr ""
+
+#: lib/admin/admin.php:376
+msgid "thumbnail image <acronym title=\"Uniform Resource Locator\">URL</acronym> (including <code>http://</code>)"
+msgstr ""
+
+#: lib/admin/admin.php:387
+msgid "thumbnail image <code>alt</code> text"
+msgstr ""
+
+#: lib/admin/admin.php:398
+msgid "add a frame to this thumbnail image"
+msgstr ""
+
+#: lib/admin/admin.php:444
+msgid "Thumbnail Size Dimensions"
+msgstr ""
+
+#: lib/admin/admin.php:446
+msgid "width (px)"
+msgstr ""
+
+#: lib/admin/admin.php:457
+msgid "height (px)"
+msgstr ""
+
+#: lib/admin/admin.php:465
+msgid "Multimedia Box Options"
+msgstr ""
+
+#: lib/admin/admin.php:474
+msgid "Multimedia Box Image"
+msgstr ""
+
+#: lib/admin/admin.php:475
+msgid "Even if you have the multimedia box disabled by default, you can display any custom image you like in the box on this particular post. To accomplish this, simply upload your own image or use the <em>Add an Image</em> button above, and then paste the image <strong>Link <acronym title=\"Uniform Resource Locator\">URL</acronym></strong> in the field below."
+msgstr ""
+
+#: lib/admin/admin.php:476
+msgid "multimedia box image <acronym title=\"Uniform Resource Locator\">URL</acronym> (including <code>http://</code>)"
+msgstr ""
+
+#: lib/admin/admin.php:485
+msgid "Multimedia Box Video"
+msgstr ""
+
+#: lib/admin/admin.php:486
+msgid "Like the image box above, you can override your multimedia box settings and display any video you want on this particular post. Upload a video using the <em>Add Video</em> button, and then paste the video embed code in the box below. Also, please note that you may need to change the width and height attributes of the video in order to make it fit perfectly inside your multimedia box."
+msgstr ""
+
+#: lib/admin/admin.php:487
+msgid "video embed code"
+msgstr ""
+
+#: lib/admin/admin.php:496
+#: lib/admin/design_options.php:426
+msgid "Custom Multimedia Box Code"
+msgstr ""
+
+#: lib/admin/admin.php:497
+msgid "If you want to get really fancy, you can inject your own custom <acronym title=\"HyperText Markup Language\">HTML</acronym> into the multimedia box on this post by entering your code in the box below."
+msgstr ""
+
+#: lib/admin/admin.php:498
+msgid "custom <acronym title=\"HyperText Markup Language\">HTML</acronym>"
+msgstr ""
+
+#: lib/admin/admin.php:507
+msgid "Access the Multimedia Box Hook"
+msgstr ""
+
+#: lib/admin/admin.php:508
+msgid "Real ninjas do it with hooks, and if you want to add some amazing functionality to the multimedia box on this post (with <acronym title=\"Recursive acronym for Hypertext Preprocessor\">PHP</acronym>, perhaps), check the box below. Also, if you&#8217;re already using the multimedia box hook by default, there&#8217;s no need to check this box."
+msgstr ""
+
+#: lib/admin/admin.php:509
+msgid "access the multimedia box hook, <code>thesis_hook_multimedia_box</code>, on this post"
+msgstr ""
+
+#: lib/admin/design_options.php:10
+msgid "Thesis Design Options"
+msgstr ""
+
+#: lib/admin/design_options.php:10
+#: lib/admin/options_page.php:10
+msgid "Big Ass Toggle Switch"
+msgstr ""
+
+#: lib/admin/design_options.php:16
+#: lib/admin/options_page.php:16
+msgid "Options updated!"
+msgstr ""
+
+#: lib/admin/design_options.php:16
+#: lib/admin/options_page.php:16
+msgid "Check out your site &rarr;"
+msgstr ""
+
+#: lib/admin/design_options.php:24
+#: lib/admin/options_page.php:24
+msgid "Nicely done&#8212;Thesis <strong>"
+msgstr ""
+
+#: lib/admin/design_options.php:43
+#: lib/admin/options_page.php:43
+msgid "Oooh, Exciting!"
+msgstr ""
+
+#: lib/admin/design_options.php:44
+#: lib/admin/options_page.php:44
+msgid "It&#8217;s time to upgrade your Thesis, which means there&#8217;s new awesomeness in your immediate future. Click the button below to fast-track your way to the awesomeness!"
+msgstr ""
+
+#: lib/admin/design_options.php:45
+#: lib/admin/options_page.php:45
+msgid "Upgrade Thesis"
+msgstr ""
+
+#: lib/admin/design_options.php:53
+#: lib/admin/options_page.php:54
+#, php-format
+msgid "You are using Thesis <strong>%s</strong>!"
+msgstr ""
+
+#: lib/admin/design_options.php:62
+msgid "Fonts and Font Sizes"
+msgstr ""
+
+#: lib/admin/design_options.php:64
+#: lib/admin/design_options.php:87
+#: lib/admin/design_options.php:175
+#: lib/admin/design_options.php:207
+#: lib/admin/design_options.php:239
+#: lib/admin/design_options.php:261
+#: lib/admin/design_options.php:271
+#: lib/admin/design_options.php:278
+#: lib/admin/design_options.php:309
+#: lib/admin/design_options.php:358
+#: lib/admin/design_options.php:368
+#: lib/admin/design_options.php:440
+#: lib/admin/design_options.php:450
+#: lib/admin/options_page.php:65
+#: lib/admin/options_page.php:85
+#: lib/admin/options_page.php:99
+#: lib/admin/options_page.php:105
+#: lib/admin/options_page.php:114
+#: lib/admin/options_page.php:132
+#: lib/admin/options_page.php:145
+#: lib/admin/options_page.php:155
+#: lib/admin/options_page.php:171
+#: lib/admin/options_page.php:185
+#: lib/admin/options_page.php:210
+#: lib/admin/options_page.php:217
+#: lib/admin/options_page.php:238
+#: lib/admin/options_page.php:258
+#: lib/admin/options_page.php:270
+#: lib/admin/options_page.php:278
+#: lib/admin/options_page.php:296
+#: lib/admin/options_page.php:302
+#: lib/admin/options_page.php:321
+#: lib/admin/options_page.php:357
+#: lib/admin/options_page.php:380
+#: lib/admin/options_page.php:401
+#: lib/admin/options_page.php:418
+#: lib/admin/options_page.php:438
+#: lib/admin/options_page.php:463
+#: lib/admin/options_page.php:498
+msgid "Show/hide additional information"
+msgstr ""
+
+#: lib/admin/design_options.php:64
+msgid "Body (and Content Area)"
+msgstr ""
+
+#: lib/admin/design_options.php:66
+msgid "The font you select here will be the main font on your site. You can tweak individual fonts and sizes below."
+msgstr ""
+
+#: lib/admin/design_options.php:78
+msgid "Asterisks (*) denote web-safe fonts."
+msgstr ""
+
+#: lib/admin/design_options.php:173
+msgid "Site Layout"
+msgstr ""
+
+#: lib/admin/design_options.php:175
+msgid "Columns"
+msgstr ""
+
+#: lib/admin/design_options.php:177
+msgid "Select the number of columns you want in your layout:"
+msgstr ""
+
+#: lib/admin/design_options.php:180
+msgid "3 columns"
+msgstr ""
+
+#: lib/admin/design_options.php:181
+msgid "2 columns"
+msgstr ""
+
+#: lib/admin/design_options.php:182
+msgid "1 column"
+msgstr ""
+
+#: lib/admin/design_options.php:185
+msgid "Enter a width between 300 and 934 pixels for your <strong>content column</strong>:"
+msgstr ""
+
+#: lib/admin/design_options.php:188
+msgid "px"
+msgstr ""
+
+#: lib/admin/design_options.php:191
+msgid "Enter a width between 60 and 500 pixels for <strong>sidebar 1</strong>:"
+msgstr ""
+
+#: lib/admin/design_options.php:194
+#: lib/admin/design_options.php:201
+msgid "px (default is 195)"
+msgstr ""
+
+#: lib/admin/design_options.php:198
+msgid "Enter a width between 60 and 500 pixels for <strong>sidebar 2</strong>:"
+msgstr ""
+
+#: lib/admin/design_options.php:207
+msgid "Column Order"
+msgstr ""
+
+#: lib/admin/design_options.php:211
+msgid "Content, Sidebar 1, Sidebar 2 <span>&darr;</span>"
+msgstr ""
+
+#: lib/admin/design_options.php:215
+msgid "Sidebar 1, Content, Sidebar 2 <span>&darr;</span>"
+msgstr ""
+
+#: lib/admin/design_options.php:219
+msgid "Sidebar 1, Sidebar 2, Content <span>&darr;</span>"
+msgstr ""
+
+#: lib/admin/design_options.php:225
+msgid "Content, Sidebar 1 <span>&darr;</span>"
+msgstr ""
+
+#: lib/admin/design_options.php:229
+msgid "Sidebar 1, Content <span>&darr;</span>"
+msgstr ""
+
+#: lib/admin/design_options.php:237
+msgid "Teasers"
+msgstr ""
+
+#: lib/admin/design_options.php:239
+msgid "Teaser Display Options"
+msgstr ""
+
+#: lib/admin/design_options.php:241
+msgid "Pick and choose what you want your teasers to display! Drag and drop the elements to change the order in which they appear on your site."
+msgstr ""
+
+#: lib/admin/design_options.php:261
+msgid "Teaser Date Format"
+msgstr ""
+
+#: lib/admin/design_options.php:267
+msgid "Custom: "
+msgstr ""
+
+#: lib/admin/design_options.php:271
+msgid "Link to Full Article"
+msgstr ""
+
+#: lib/admin/design_options.php:274
+msgid "link display text"
+msgstr ""
+
+#: lib/admin/design_options.php:278
+msgid "Teaser Font Sizes"
+msgstr ""
+
+#: lib/admin/design_options.php:280
+msgid "Use the controls below to fine-tune the font sizes of your teaser elements."
+msgstr ""
+
+#: lib/admin/design_options.php:297
+msgid " font size"
+msgstr ""
+
+#: lib/admin/design_options.php:307
+msgid "Feature Box"
+msgstr ""
+
+#: lib/admin/design_options.php:309
+msgid "Placement"
+msgstr ""
+
+#: lib/admin/design_options.php:311
+msgid "Select a placement setting below, and then depending on your site&#8217;s configuration, you&#8217;ll be presented with different options for managing your feature box."
+msgstr ""
+
+#: lib/admin/design_options.php:314
+msgid "Do not use feature box"
+msgstr ""
+
+#: lib/admin/design_options.php:315
+msgid "In your content column"
+msgstr ""
+
+#: lib/admin/design_options.php:316
+msgid "Full-width above content and sidebars"
+msgstr ""
+
+#: lib/admin/design_options.php:317
+msgid "Full-width above header area"
+msgstr ""
+
+#: lib/admin/design_options.php:321
+msgid "Show feature box&hellip;"
+msgstr ""
+
+#: lib/admin/design_options.php:326
+msgid "on front page <em>only</em>"
+msgstr ""
+
+#: lib/admin/design_options.php:327
+msgid "on blog page <em>only</em>"
+msgstr ""
+
+#: lib/admin/design_options.php:328
+msgid "on front page and blog page"
+msgstr ""
+
+#: lib/admin/design_options.php:333
+msgid "on home page <em>only</em>"
+msgstr ""
+
+#: lib/admin/design_options.php:337
+msgid "sitewide"
+msgstr ""
+
+#: lib/admin/design_options.php:341
+msgid "Display feature box after post&hellip;"
+msgstr ""
+
+#: lib/admin/design_options.php:344
+msgid "Above all posts"
+msgstr ""
+
+#: lib/admin/design_options.php:358
+#: lib/admin/options_page.php:208
+msgid "Display Options"
+msgstr ""
+
+#: lib/admin/design_options.php:359
+msgid "Right now, the only thing you can do with your shiny new feature box is access a hook, <code>thesis_hook_feature_box</code>. Expect your display options to improve dramatically in a future release!"
+msgstr ""
+
+#: lib/admin/design_options.php:366
+#: lib/classes/design.php:500
+msgid "Multimedia Box"
+msgstr ""
+
+#: lib/admin/design_options.php:368
+msgid "Default Settings"
+msgstr ""
+
+#: lib/admin/design_options.php:370
+msgid "The default multimedia box setting applies to your home page, archive pages (category, tag, date-based, and author-based), search pages, and 404 pages. You can override the default setting on any individual post or page by utilizing the multimedia box controls on the post editing screen."
+msgstr ""
+
+#: lib/admin/design_options.php:373
+msgid "Do not show box"
+msgstr ""
+
+#: lib/admin/design_options.php:374
+msgid "Rotating images"
+msgstr ""
+
+#: lib/admin/design_options.php:375
+msgid "Embed a video"
+msgstr ""
+
+#: lib/admin/design_options.php:376
+msgid "Custom code"
+msgstr ""
+
+#: lib/admin/design_options.php:379
+msgid "Remember, even though you&#8217;ve disabled the multimedia box here, you can activate it on single posts or pages by using the multimedia box options on the post editing screen."
+msgstr ""
+
+#: lib/admin/design_options.php:380
+msgid "Any images you upload to your <a href=\""
+msgstr ""
+
+#: lib/admin/design_options.php:382
+msgid "Define Image Alt Tags and Links"
+msgstr ""
+
+#: lib/admin/design_options.php:383
+msgid "It&#8217;s a good practice to add descriptive alt tags to every image you place on your site. Use the input fields below to add customized alt tags to your rotating images."
+msgstr ""
+
+#: lib/admin/design_options.php:399
+msgid "alt text for "
+msgstr ""
+
+#: lib/admin/design_options.php:399
+msgid "[+] add link"
+msgstr ""
+
+#: lib/admin/design_options.php:403
+msgid "link <acronym title=\"Uniform Resource Locator\">URL</acronym> for "
+msgstr ""
+
+#: lib/admin/design_options.php:412
+msgid "You don&#8217;t have any images to rotate! Try adding some images to your <a href=\""
+msgstr ""
+
+#: lib/admin/design_options.php:418
+msgid "Embedded Video Code"
+msgstr ""
+
+#: lib/admin/design_options.php:419
+msgid "Place your video embed code in the box below, and it will appear in the multimedia box by default."
+msgstr ""
+
+#: lib/admin/design_options.php:421
+msgid "Video embed code"
+msgstr ""
+
+#: lib/admin/design_options.php:427
+msgid "You&#8217;ve now activated the special multimedia box hook, <code>thesis_hook_multimedia_box</code>, and you can use this to make the multimedia box do just about anything via your custom functions file, <code>custom_functions.php</code>."
+msgstr ""
+
+#: lib/admin/design_options.php:428
+msgid "If you like, you can override this hook by placing your own custom <acronym title=\"HyperText Markup Language\">HTML</acronym> in the box below. Even if you do this, you can still access the hook on any post or page by adding a custom field with a key of <code>custom</code> and a value of <code>php</code>."
+msgstr ""
+
+#: lib/admin/design_options.php:430
+msgid "Custom multimedia box code"
+msgstr ""
+
+#: lib/admin/design_options.php:438
+msgid "Framework Options"
+msgstr ""
+
+#: lib/admin/design_options.php:440
+msgid "<acronym title=\"HyperText Markup Language\">HTML</acronym> Framework"
+msgstr ""
+
+#: lib/admin/design_options.php:442
+msgid "If you&#8217;re customizing your Thesis design, you may wish to employ a different <acronym title=\"HyperText Markup Language\">HTML</acronym> framework in order to better suit your design needs. There are two primary types of frameworks that should accommodate just about any type of design&#8212;<strong>page</strong> and <strong>full-width</strong>. By default, Thesis uses the page framework, but you can change that below."
+msgstr ""
+
+#: lib/admin/design_options.php:444
+msgid "Page framework"
+msgstr ""
+
+#: lib/admin/design_options.php:445
+msgid "Full-width framework"
+msgstr ""
+
+#: lib/admin/design_options.php:450
+msgid "Outer Page Padding"
+msgstr ""
+
+#: lib/admin/design_options.php:452
+msgid "By default, Thesis adds whitespace around your layout for styling purposes. One unit of whitespace is equal to the line height of the text in your content area, and by default, Thesis places adds one unit of whitespace around your layout. How many units of whitespace would you like around your layout?"
+msgstr ""
+
+#: lib/admin/options_page.php:63
+msgid "Document Head"
+msgstr ""
+
+#: lib/admin/options_page.php:65
+msgid "Title Tag"
+msgstr ""
+
+#: lib/admin/options_page.php:67
+msgid "Home page settings:"
+msgstr ""
+
+#: lib/admin/options_page.php:69
+msgid "Show site name in title"
+msgstr ""
+
+#: lib/admin/options_page.php:70
+msgid "Show site tagline in title"
+msgstr ""
+
+#: lib/admin/options_page.php:71
+msgid "Show tagline before title"
+msgstr ""
+
+#: lib/admin/options_page.php:73
+msgid "All other pages:"
+msgstr ""
+
+#: lib/admin/options_page.php:75
+msgid "Append site name to page titles"
+msgstr ""
+
+#: lib/admin/options_page.php:79
+msgid "Character separator in titles (where applicable)"
+msgstr ""
+
+#: lib/admin/options_page.php:81
+msgid "You can tweak the titles on your category archive pages by editing the <em>Description</em> field for your respective categories."
+msgstr ""
+
+#: lib/admin/options_page.php:85
+msgid "Add Noindex to Archive Pages"
+msgstr ""
+
+#: lib/admin/options_page.php:87
+msgid "Adding the <code>noindex</code> robot meta tag is a great way to fine-tune your site&#8217;s <acronym title=\"Search Engine Optimization\">SEO</acronym> by streamlining the amount of pages that get indexed by the search engines. The options below will help you prevent the indexing of &#8220;bloat&#8221; pages that do nothing but dilute your search results and keep you from ranking as well as you should."
+msgstr ""
+
+#: lib/admin/options_page.php:89
+msgid "Add <code>noindex</code> to category archives"
+msgstr ""
+
+#: lib/admin/options_page.php:90
+msgid "Add <code>noindex</code> to tag archives"
+msgstr ""
+
+#: lib/admin/options_page.php:91
+msgid "Add <code>noindex</code> to author archives"
+msgstr ""
+
+#: lib/admin/options_page.php:92
+msgid "Add <code>noindex</code> to daily archives"
+msgstr ""
+
+#: lib/admin/options_page.php:93
+msgid "Add <code>noindex</code> to monthly archives"
+msgstr ""
+
+#: lib/admin/options_page.php:94
+msgid "Add <code>noindex</code> to yearly archives"
+msgstr ""
+
+#: lib/admin/options_page.php:99
+msgid "Canonical <acronym title=\"Uniform Resource Locator\">URL</acronym>s"
+msgstr ""
+
+#: lib/admin/options_page.php:101
+msgid "Add canonical <acronym title=\"Uniform Resource Locator\">URL</acronym>s to your site"
+msgstr ""
+
+#: lib/admin/options_page.php:105
+msgid "Thesis Version"
+msgstr ""
+
+#: lib/admin/options_page.php:107
+msgid "Show Thesis version in document head"
+msgstr ""
+
+#: lib/admin/options_page.php:112
+msgid "Design Customizations"
+msgstr ""
+
+#: lib/admin/options_page.php:114
+msgid "Custom Stylesheet"
+msgstr ""
+
+#: lib/admin/options_page.php:116
+msgid "If you want to make stylistic changes with <acronym title=\"Cascading Style Sheet\">CSS</acronym>, you should use the Thesis custom stylesheet to do so."
+msgstr ""
+
+#: lib/admin/options_page.php:118
+msgid "Use custom stylesheet"
+msgstr ""
+
+#: lib/admin/options_page.php:122
+msgid "Your custom stylesheet <strong>will not work</strong> until you rename your <code>/custom-sample</code> folder to <code>/custom</code>."
+msgstr ""
+
+#: lib/admin/options_page.php:124
+msgid "One-click Customizations"
+msgstr ""
+
+#: lib/admin/options_page.php:125
+msgid "Did you know that you can customize fonts, font sizes, and your site&#8217;s layout without writing any code? Check out the <a href=\""
+msgstr ""
+
+#: lib/admin/options_page.php:130
+msgid "Syndication/Feed"
+msgstr ""
+
+#: lib/admin/options_page.php:132
+msgid "Set your feed <acronym title=\"Uniform Resource Locator\">URL</acronym>:"
+msgstr ""
+
+#: lib/admin/options_page.php:134
+msgid "If you&#8217;re using a service like <a href=\"http://www.feedburner.com/\">Feedburner</a> to manage your <acronym title=\"Really Simple Syndication\">RSS</acronym> feed (highly recommended), you should enter the <acronym title=\"Uniform Resource Locator\">URL</acronym> of your feed in the box below. If you&#8217;d prefer to use the default WordPress feed, simply leave this box blank."
+msgstr ""
+
+#: lib/admin/options_page.php:137
+msgid "Feed <acronym title=\"Uniform Resource Locator\">URL</acronym> (including &#8216;http://&#8217;)"
+msgstr ""
+
+#: lib/admin/options_page.php:143
+msgid "Stats Software and Scripts"
+msgstr ""
+
+#: lib/admin/options_page.php:145
+msgid "Header Scripts"
+msgstr ""
+
+#: lib/admin/options_page.php:147
+msgid "If you need to add scripts to your header (like <a href=\"http://haveamint.com/\">Mint</a> tracking code, perhaps), you should enter them in the box below."
+msgstr ""
+
+#: lib/admin/options_page.php:149
+msgid "Header scripts (code)"
+msgstr ""
+
+#: lib/admin/options_page.php:155
+msgid "Footer Scripts"
+msgstr ""
+
+#: lib/admin/options_page.php:157
+msgid "If you need to add scripts to your footer (like <a href=\"http://www.google.com/analytics/\">Google Analytics</a> tracking code), you should enter them here."
+msgstr ""
+
+#: lib/admin/options_page.php:159
+msgid "Footer scripts (code)"
+msgstr ""
+
+#: lib/admin/options_page.php:169
+msgid "Home Page"
+msgstr ""
+
+#: lib/admin/options_page.php:171
+msgid "Home Page Meta"
+msgstr ""
+
+#: lib/admin/options_page.php:173
+msgid "You should use meta descriptions and keywords to provide search engines with additional information about topics that appear on your site. Please note that the information you enter below only applies to your home page. You can supply separate descriptions and keywords for <em>each page of your site</em> on the post editing screen."
+msgstr ""
+
+#: lib/admin/options_page.php:175
+msgid "Meta description for your home page"
+msgstr ""
+
+#: lib/admin/options_page.php:180
+msgid "Meta keywords for your home page"
+msgstr ""
+
+#: lib/admin/options_page.php:185
+msgid "Home Page Display"
+msgstr ""
+
+#: lib/admin/options_page.php:187
+msgid "Below, you can select the number of &#8220;featured&#8221; posts to show (normal format) on your home page, and the rest of your posts will be displayed as teasers. In this context, teasers are simply boxes that take up half the width of your content area and contain whatever you specify in your <a href=\""
+msgstr ""
+
+#: lib/admin/options_page.php:188
+msgid "Number of featured posts to show"
+msgstr ""
+
+#: lib/admin/options_page.php:210
+#: lib/classes/design.php:467
+msgid "Header"
+msgstr ""
+
+#: lib/admin/options_page.php:212
+msgid "Show site name in header"
+msgstr ""
+
+#: lib/admin/options_page.php:213
+msgid "Show site tagline in header"
+msgstr ""
+
+#: lib/admin/options_page.php:217
+msgid "Bylines"
+msgstr ""
+
+#: lib/admin/options_page.php:221
+msgid "Show author name in <strong>post</strong> byline"
+msgstr ""
+
+#: lib/admin/options_page.php:224
+msgid "Link author names to archives"
+msgstr ""
+
+#: lib/admin/options_page.php:225
+msgid "Add <code>nofollow</code> to author links"
+msgstr ""
+
+#: lib/admin/options_page.php:229
+msgid "Show published-on date in <strong>post</strong> byline"
+msgstr ""
+
+#: lib/admin/options_page.php:230
+msgid "Show author name in <strong>page</strong> byline"
+msgstr ""
+
+#: lib/admin/options_page.php:231
+msgid "Show published-on date in <strong>page</strong> byline"
+msgstr ""
+
+#: lib/admin/options_page.php:232
+msgid "Show number of comments in byline"
+msgstr ""
+
+#: lib/admin/options_page.php:233
+msgid "Show <strong>post</strong> categories"
+msgstr ""
+
+#: lib/admin/options_page.php:238
+msgid "Posts"
+msgstr ""
+
+#: lib/admin/options_page.php:240
+msgid "The display setting you select below only affects your <strong>features</strong>&#8212;teasers (if you&#8217;re using them) are always displayed in excerpt format."
+msgstr ""
+
+#: lib/admin/options_page.php:242
+msgid "Display full post content"
+msgstr ""
+
+#: lib/admin/options_page.php:243
+msgid "Display post excerpts"
+msgstr ""
+
+#: lib/admin/options_page.php:245
+msgid "&#8220;Read More&#8221; link"
+msgstr ""
+
+#: lib/admin/options_page.php:246
+msgid "This is the clickthrough text on home and archive pages that appears on any post where you use the <code>&lt;!--more--&gt;</code> tag:"
+msgstr ""
+
+#: lib/admin/options_page.php:249
+msgid "clickthrough text"
+msgstr ""
+
+#: lib/admin/options_page.php:251
+msgid "Single entry pages"
+msgstr ""
+
+#: lib/admin/options_page.php:253
+msgid "Show previous/next post links"
+msgstr ""
+
+#: lib/admin/options_page.php:258
+msgid "Archives"
+msgstr ""
+
+#: lib/admin/options_page.php:260
+msgid "Select a display format for your archive pages:"
+msgstr ""
+
+#: lib/admin/options_page.php:262
+msgid "Titles only"
+msgstr ""
+
+#: lib/admin/options_page.php:263
+msgid "Everything&#8217;s a teaser!"
+msgstr ""
+
+#: lib/admin/options_page.php:264
+msgid "Same as your home page"
+msgstr ""
+
+#: lib/admin/options_page.php:265
+msgid "Post excerpts"
+msgstr ""
+
+#: lib/admin/options_page.php:270
+msgid "Tagging"
+msgstr ""
+
+#: lib/admin/options_page.php:272
+msgid "Show tags on single entry pages"
+msgstr ""
+
+#: lib/admin/options_page.php:273
+msgid "Show tags on index and archives pages"
+msgstr ""
+
+#: lib/admin/options_page.php:274
+msgid "Add <code>nofollow</code> to tag links"
+msgstr ""
+
+#: lib/admin/options_page.php:278
+msgid "Comments"
+msgstr ""
+
+#: lib/admin/options_page.php:281
+msgid "Show comment numbers"
+msgstr ""
+
+#: lib/admin/options_page.php:282
+msgid "Show list of allowed <abbr title=\"Hypertext Markup Language\">HTML</abbr> tags"
+msgstr ""
+
+#: lib/admin/options_page.php:284
+msgid "Pages"
+msgstr ""
+
+#: lib/admin/options_page.php:286
+msgid "Disable comments on all <strong>pages</strong>"
+msgstr ""
+
+#: lib/admin/options_page.php:288
+#, php-format
+msgid "You can modify your avatar settings <a href=\"%1$s\">here</a>, and you can change the size of your avatar below."
+msgstr ""
+
+#: lib/admin/options_page.php:291
+msgid "Set your avatar size (between 1 and 96 px)"
+msgstr ""
+
+#: lib/admin/options_page.php:296
+#: lib/classes/design.php:507
+msgid "Sidebars"
+msgstr ""
+
+#: lib/admin/options_page.php:298
+msgid "Show default sidebar widgets"
+msgstr ""
+
+#: lib/admin/options_page.php:302
+msgid "Administration"
+msgstr ""
+
+#: lib/admin/options_page.php:305
+msgid "Show edit post links"
+msgstr ""
+
+#: lib/admin/options_page.php:306
+msgid "Show edit comment links"
+msgstr ""
+
+#: lib/admin/options_page.php:308
+msgid "WordPress admin panel link (in footer)"
+msgstr ""
+
+#: lib/admin/options_page.php:310
+msgid "Show admin link in footer"
+msgstr ""
+
+#: lib/admin/options_page.php:319
+msgid "Navigation Menu"
+msgstr ""
+
+#: lib/admin/options_page.php:321
+msgid "Select pages to include in nav menu:"
+msgstr ""
+
+#: lib/admin/options_page.php:323
+msgid "Start by selecting the pages you want to include in your nav menu. Next, drag and drop the pages to change their display order (topmost item displays first), and if you <em>really</em> want to get crazy, you can even edit the display text on each item. <strong>Try it!</strong>"
+msgstr ""
+
+#: lib/admin/options_page.php:352
+msgid "Use old Thesis nav style (supports child pages and dropdown menus but invalidates the page order and link text specified above)"
+msgstr ""
+
+#: lib/admin/options_page.php:357
+msgid "Include these category pages in nav menu:"
+msgstr ""
+
+#: lib/admin/options_page.php:359
+msgid "If you&#8217;d like to include category archive pages in your nav menu, simply select the appropriate categories from the list below (you can select more than one)."
+msgstr ""
+
+#: lib/admin/options_page.php:362
+msgid "No category page links"
+msgstr ""
+
+#: lib/admin/options_page.php:380
+msgid "Add More Links"
+msgstr ""
+
+#: lib/admin/options_page.php:382
+msgid "You can insert additional navigation links on the <a href=\""
+msgstr ""
+
+#: lib/admin/options_page.php:385
+msgid "No additional links"
+msgstr ""
+
+#: lib/admin/options_page.php:401
+msgid "Home Link"
+msgstr ""
+
+#: lib/admin/options_page.php:404
+msgid "Show home link in nav menu"
+msgstr ""
+
+#: lib/admin/options_page.php:409
+msgid "home link text"
+msgstr ""
+
+#: lib/admin/options_page.php:412
+msgid "Add <code>nofollow</code> to home link"
+msgstr ""
+
+#: lib/admin/options_page.php:418
+msgid "Feed Link in Nav Menu"
+msgstr ""
+
+#: lib/admin/options_page.php:421
+msgid "Show feed link in nav menu"
+msgstr ""
+
+#: lib/admin/options_page.php:426
+msgid "Change your feed link text"
+msgstr ""
+
+#: lib/admin/options_page.php:429
+msgid "Add <code>nofollow</code> to feed link"
+msgstr ""
+
+#: lib/admin/options_page.php:436
+msgid "Post Images and Thumbnails"
+msgstr ""
+
+#: lib/admin/options_page.php:438
+msgid "Default Post Image Settings"
+msgstr ""
+
+#: lib/admin/options_page.php:440
+msgid "Post images are a perfect way to add more visual punch to your site. To use them, simply specify a post image in the appropriate field on the post editing screen. During the normal stream of content, post images will display full-size, and by default, they will be automatically cropped into smaller thumbnail images for use in other areas (like teasers and excerpts)."
+msgstr ""
+
+#: lib/admin/options_page.php:441
+msgid "Don&#8217;t want Thesis to auto-crop your thumbnails? No worries&#8212;you can override this by uploading your own thumbnail image on <em>any</em> post or page. Also, it&#8217;s worth noting that you can override <em>all</em> of the settings below on the post editing screen."
+msgstr ""
+
+#: lib/admin/options_page.php:442
+#: lib/admin/options_page.php:465
+msgid "Horizontal position"
+msgstr ""
+
+#: lib/admin/options_page.php:444
+#: lib/admin/options_page.php:467
+msgid "Flush left with no text wrap"
+msgstr ""
+
+#: lib/admin/options_page.php:445
+#: lib/admin/options_page.php:468
+msgid "Left with text wrap"
+msgstr ""
+
+#: lib/admin/options_page.php:446
+#: lib/admin/options_page.php:469
+msgid "Right with text wrap"
+msgstr ""
+
+#: lib/admin/options_page.php:447
+#: lib/admin/options_page.php:470
+msgid "Centered (no wrap)"
+msgstr ""
+
+#: lib/admin/options_page.php:449
+#: lib/admin/options_page.php:472
+msgid "Vertical position"
+msgstr ""
+
+#: lib/admin/options_page.php:451
+#: lib/admin/options_page.php:474
+msgid "Above headline"
+msgstr ""
+
+#: lib/admin/options_page.php:452
+#: lib/admin/options_page.php:475
+msgid "Below headline"
+msgstr ""
+
+#: lib/admin/options_page.php:453
+#: lib/admin/options_page.php:476
+msgid "Before post/page content"
+msgstr ""
+
+#: lib/admin/options_page.php:456
+msgid "Add a frame to post images"
+msgstr ""
+
+#: lib/admin/options_page.php:457
+msgid "Show images on single entry pages"
+msgstr ""
+
+#: lib/admin/options_page.php:458
+msgid "Show images on archives pages"
+msgstr ""
+
+#: lib/admin/options_page.php:463
+msgid "Default Thumbnail Settings"
+msgstr ""
+
+#: lib/admin/options_page.php:479
+msgid "Add a frame to thumbnail images"
+msgstr ""
+
+#: lib/admin/options_page.php:481
+msgid "If you do not supply a thumbnail image on a particular post (in addition to or in place of a post image), the post image that you upload will be auto-cropped to these dimensions and re-saved for use as a thumbnail:"
+msgstr ""
+
+#: lib/admin/options_page.php:484
+msgid "default thumbnail width"
+msgstr ""
+
+#: lib/admin/options_page.php:488
+msgid "default thumbnail height"
+msgstr ""
+
+#: lib/admin/options_page.php:498
+msgid "Change Save Button Text"
+msgstr ""
+
+#: lib/admin/options_page.php:501
+msgid "not recommended (heh)"
+msgstr ""
+
+#: lib/classes/design.php:68
+msgid "post title"
+msgstr ""
+
+#: lib/classes/design.php:72
+msgid "author name"
+msgstr ""
+
+#: lib/classes/design.php:76
+msgid "date"
+msgstr ""
+
+#: lib/classes/design.php:80
+msgid "edit post link"
+msgstr ""
+
+#: lib/classes/design.php:84
+msgid "primary category"
+msgstr ""
+
+#: lib/classes/design.php:88
+msgid "post excerpt"
+msgstr ""
+
+#: lib/classes/design.php:92
+msgid "tags"
+msgstr ""
+
+#: lib/classes/design.php:96
+msgid "number of comments link"
+msgstr ""
+
+#: lib/classes/design.php:100
+msgid "link to full article"
+msgstr ""
+
+#: lib/classes/design.php:213
+msgid "Easy there, homey. You don&#8217;t have admin privileges to access theme options."
+msgstr ""
+
+#: lib/classes/design.php:448
+msgid "Content Area"
+msgstr ""
+
+#: lib/classes/design.php:449
+msgid "The size you select will be the <em>primary</em> font size used in your post and comment areas. <strong>Note:</strong> The font used in this area is inherited from the body."
+msgstr ""
+
+#: lib/classes/design.php:454
+msgid "Sub-headlines"
+msgstr ""
+
+#: lib/classes/design.php:455
+msgid "By default, sub-headlines (<code>&lt;h2&gt;</code> or <code>&lt;h3&gt;</code>) inside your content are rendered in the same font as the content. If you like, you can change your sub-headline font here:"
+msgstr ""
+
+#: lib/classes/design.php:460
+msgid "Nav Menu"
+msgstr ""
+
+#: lib/classes/design.php:461
+msgid "The font and size you select will be used in your nav menu items:"
+msgstr ""
+
+#: lib/classes/design.php:468
+msgid "The font and size you select will be used in your site title:"
+msgstr ""
+
+#: lib/classes/design.php:473
+msgid "Tagline"
+msgstr ""
+
+#: lib/classes/design.php:474
+msgid "By default, your tagline will be rendered in the same font as your site title. If you like, you can change your tagline font here:"
+msgstr ""
+
+#: lib/classes/design.php:479
+msgid "Headlines"
+msgstr ""
+
+#: lib/classes/design.php:480
+msgid "The font and size you select will be used in your post and page headlines:"
+msgstr ""
+
+#: lib/classes/design.php:486
+msgid "Bylines and Post Meta Data"
+msgstr ""
+
+#: lib/classes/design.php:487
+msgid "The font and size you select will be used in your bylines:"
+msgstr ""
+
+#: lib/classes/design.php:493
+msgid "Code"
+msgstr ""
+
+#: lib/classes/design.php:494
+msgid "The font you select will be used to render both <code>&lt;code&gt;</code> and <code>&lt;pre&gt;</code> within your posts. The size you select will be used for preformatted code (<code>&lt;pre&gt;</code>):"
+msgstr ""
+
+#: lib/classes/design.php:501
+msgid "The font and size you select will be used in your multimedia box:"
+msgstr ""
+
+#: lib/classes/design.php:508
+msgid "The font and size you select will be the <em>primary</em> font and size used in your sidebars:"
+msgstr ""
+
+#: lib/classes/design.php:513
+msgid "Sidebar Headings"
+msgstr ""
+
+#: lib/classes/design.php:514
+msgid "By default, sidebar headings are rendered in the same font as the sidebars. If you like, you can change your sidebar heading font here:"
+msgstr ""
+
+#: lib/classes/design.php:519
+msgid "Footer"
+msgstr ""
+
+#: lib/classes/design.php:520
+msgid "The font and size you select will be used in your footer:"
+msgstr ""
+
+#: lib/functions/comments.php:14
+msgid "Comments on this entry are closed"
+msgstr ""
+
+#: lib/functions/comments.php:29
+#: lib/functions/comments.php:43
+msgid "comment"
+msgstr ""
+
+#: lib/functions/comments.php:29
+#: lib/functions/comments.php:42
+msgid "comments"
+msgstr ""
+
+#: lib/functions/comments.php:44
+msgid "trackbacks"
+msgstr ""
+
+#: lib/functions/comments.php:45
+msgid "trackback"
+msgstr ""
+
+#: lib/functions/comments.php:56
+msgid "add one now"
+msgstr ""
+
+#: lib/functions/comments.php:58
+msgid "read it below or "
+msgstr ""
+
+#: lib/functions/comments.php:58
+#: lib/functions/comments.php:60
+msgid "add one"
+msgstr ""
+
+#: lib/functions/comments.php:60
+msgid "read them below or "
+msgstr ""
+
+#: lib/functions/comments.php:97
+#: lib/functions/content.php:128
+#: lib/functions/content.php:130
+#: lib/functions/teasers.php:140
+msgid "edit"
+msgstr ""
+
+#: lib/functions/comments.php:148
+#: lib/functions/comments.php:158
+msgid "Previous Comments"
+msgstr ""
+
+#: lib/functions/comments.php:153
+#: lib/functions/comments.php:162
+msgid "Next Comments"
+msgstr ""
+
+#: lib/functions/comments.php:259
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: lib/functions/comments.php:369
+#, php-format
+msgid "Logged in as <a href=\"%1$s/wp-admin/profile.php\" rel=\"nofollow\">%2$s</a>."
+msgstr ""
+
+#: lib/functions/comments.php:369
+#, php-format
+msgid "<a href=\"%s\" title=\"Log out of this account\" rel=\"nofollow\">Logout &rarr;</a>"
+msgstr ""
+
+#: lib/functions/comments.php:372
+msgid "Name"
+msgstr ""
+
+#: lib/functions/comments.php:372
+#: lib/functions/comments.php:373
+msgid " <span class=\"required\" title=\"Required\">*</span>"
+msgstr ""
+
+#: lib/functions/comments.php:373
+msgid "E-mail"
+msgstr ""
+
+#: lib/functions/comments.php:374
+msgid "Website"
+msgstr ""
+
+#: lib/functions/content.php:111
+msgid "on"
+msgstr ""
+
+#: lib/functions/content.php:121
+msgid "0 comments"
+msgstr ""
+
+#: lib/functions/content.php:121
+msgid "1 comment"
+msgstr ""
+
+#: lib/functions/content.php:121
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: lib/functions/content.php:150
+msgid "by"
+msgstr ""
+
+#: lib/functions/content.php:158
+msgid "in"
+msgstr ""
+
+#: lib/functions/content.php:176
+msgid "Tagged as:"
+msgstr ""
+
+#: lib/functions/content.php:247
+msgid "From the category archives:"
+msgstr ""
+
+#: lib/functions/content.php:253
+msgid "Posts tagged as:"
+msgstr ""
+
+#: lib/functions/content.php:259
+msgid "Posts by author:"
+msgstr ""
+
+#: lib/functions/content.php:265
+msgid "From the daily archives:"
+msgstr ""
+
+#: lib/functions/content.php:271
+msgid "From the monthly archives:"
+msgstr ""
+
+#: lib/functions/content.php:277
+msgid "From the yearly archives:"
+msgstr ""
+
+#: lib/functions/content.php:283
+msgid "You searched for:"
+msgstr ""
+
+#: lib/functions/content.php:308
+msgid "[click to continue&hellip;]"
+msgstr ""
+
+#: lib/functions/content.php:323
+#: lib/functions/content.php:331
+msgid "Previous Results"
+msgstr ""
+
+#: lib/functions/content.php:325
+#: lib/functions/content.php:333
+msgid "Previous Entries"
+msgstr ""
+
+#: lib/functions/content.php:338
+#: lib/functions/content.php:346
+msgid "Next Results"
+msgstr ""
+
+#: lib/functions/content.php:340
+#: lib/functions/content.php:348
+msgid "Next Entries"
+msgstr ""
+
+#: lib/functions/content.php:371
+msgid "Previous post:"
+msgstr ""
+
+#: lib/functions/content.php:377
+msgid "Next post:"
+msgstr ""
+
+#: lib/functions/document.php:45
+msgid "You searched for"
+msgstr ""
+
+#: lib/functions/document.php:66
+msgid "Page"
+msgstr ""
+
+#: lib/functions/document.php:190
+msgid "You 404&#8217;d it. Gnarly, dude."
+msgstr ""
+
+#: lib/functions/document.php:195
+msgid "Surfin&#8217; ain&#8217;t easy, and right now, you&#8217;re lost at sea. But don&#8217;t worry; simply pick an option from the list below, and you&#8217;ll be back out riding the waves of the Internet in no time."
+msgstr ""
+
+#: lib/functions/document.php:197
+msgid "Hit the &#8220;back&#8221; button on your browser. It&#8217;s perfect for situations like this!"
+msgstr ""
+
+#: lib/functions/document.php:198
+#, php-format
+msgid "Head on over to the <a href=\"%s\" rel=\"nofollow\">home page</a>."
+msgstr ""
+
+#: lib/functions/document.php:199
+msgid "Punt."
+msgstr ""
+
+#: lib/functions/document.php:208
+msgid "WordPress Admin"
+msgstr ""
+
+#: lib/functions/loop.php:215
+msgid "Sorry, but no results were found"
+msgstr ""
+
+#: lib/functions/loop.php:218
+msgid "Don&#8217;t give up&#8212;try another search!"
+msgstr ""
+
+#: lib/functions/loop.php:229
+msgid "There&#8217;s nothing here."
+msgstr ""
+
+#: lib/functions/loop.php:232
+#, php-format
+msgid "If there were posts in the database, you&#8217;d be seeing them. Try <a href=\"%s/wp-admin/post-new.php\">creating a post</a>, and see if that solves your problem."
+msgstr ""
+
+#: lib/functions/nav_menu.php:82
+msgid "Home"
+msgstr ""
+
+#: lib/functions/nav_menu.php:88
+msgid "Subscribe"
+msgstr ""
+
+#: lib/functions/teasers.php:124
+msgid "<span>0</span> comments"
+msgstr ""
+
+#: lib/functions/teasers.php:124
+msgid "<span>1</span> comment"
+msgstr ""
+
+#: lib/functions/teasers.php:124
+msgid "<span>%</span> comments"
+msgstr ""
+
+#: lib/functions/teasers.php:135
+msgid "Read the full article &rarr;"
+msgstr ""
+
+#: lib/functions/widgets.php:16
+#: lib/functions/widgets.php:17
+msgid "Search"
+msgstr ""
+
+#: lib/functions/widgets.php:18
+#: lib/functions/widgets.php:19
+msgid "Subscriptions"
+msgstr ""
+
+#: lib/functions/widgets.php:20
+#: lib/functions/widgets.php:21
+msgid "Google Custom Search"
+msgstr ""
+
+#: lib/functions/widgets.php:30
+msgid "To search, type and hit enter"
+msgstr ""
+
+#: lib/functions/widgets.php:68
+#: lib/functions/widgets.php:122
+#: lib/functions/widgets.php:171
+msgid "Title:"
+msgstr ""
+
+#: lib/functions/widgets.php:126
+msgid "Describe your subscription options:"
+msgstr ""
+
+#: lib/functions/widgets.php:130
+msgid "<acronym title=\"Really Simple Syndication\">RSS</acronym> link text:"
+msgstr ""
+
+#: lib/functions/widgets.php:134
+msgid "Email link and text:"
+msgstr ""
+
+#: lib/functions/widgets.php:175
+msgid "Google Custom Search code:"
+msgstr ""
+
+#: lib/functions/widgets.php:246
+#: lib/functions/widgets.php:248
+msgid "on this post"
+msgstr ""
+
+#: lib/functions/widgets.php:253
+msgid "Click to read"
+msgstr ""
+
+#: lib/functions/widgets.php:326
+msgid "Show recent posts from this category:"
+msgstr ""
+
+#: lib/functions/widgets.php:328
+msgid "All recent posts"
+msgstr ""
+
+#: lib/functions/widgets.php:342
+msgid "Title (optional, defaults to category name):"
+msgstr ""
+
+#: lib/functions/widgets.php:346
+msgid "Number of posts to show:"
+msgstr ""
+
+#: lib/functions/widgets.php:358
+msgid "Show number of comments?"
+msgstr ""
+
+#: lib/functions/widgets.php:368
+msgid "Show recent posts from any category or your entire site"
+msgstr ""
+
+#: lib/functions/widgets.php:370
+msgid "Killer Recent Entries"
+msgstr ""
+
+#: lib/functions/widgets.php:461
+msgid "Default Widget"
+msgstr ""
+
+#: lib/functions/widgets.php:462
+msgid "This is Sidebar "
+msgstr ""
+
+#: lib/html/footer.php:27
+msgid "Get smart with the <a href=\"http://diythemes.com/thesis/\">Thesis WordPress Theme</a> from DIYthemes."
+msgstr ""
+
+#: lib/html/templates.php:5
+msgid "By Month:"
+msgstr ""
+
+#: lib/html/templates.php:9
+msgid "By Category:"
+msgstr ""
+
